@@ -1,0 +1,18 @@
+/* 
+	UI View From GenUITools
+	Please Don't Modify!
+ */
+
+using UnityEngine;
+using UnityEngine.UI;
+
+public class {#class#} : MonoBehaviour
+{
+{#param#}
+	public RectTransform selfRect;
+	public void Awake()
+	{
+		this.selfRect=this.transform as RectTransform;
+{#init#}
+	}
+}

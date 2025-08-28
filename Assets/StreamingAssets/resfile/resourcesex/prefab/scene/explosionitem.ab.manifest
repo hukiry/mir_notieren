@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 484164985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28e145ad0329292dd703a90154b50202
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c17fd056b9d95d1e455921594c17c63c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/Scene/ExplosionItem.prefab
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1102278080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9eb73e02c24c8f5d3b24c40a540a7942
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/item_zhuqingting.wav
+Dependencies: []

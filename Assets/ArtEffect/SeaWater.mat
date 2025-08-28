@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SeaWater
+  m_Shader: {fileID: 4800000, guid: 0a4c192c182394142bc5af4e3a6d2fcd, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 1300
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RipTex:
+        m_Texture: {fileID: 2800000, guid: c8b6b1fa225a7384cbef2839830579b1, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: 9817dbd7616423a4b811b776ab1c76c2, type: 3}
+        m_Scale: {x: 4, y: 6}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Opacity: 1
+    - _QiantanIntensity: 0.2
+    - _ReflectPow: 1
+    - _Shininess: 0.6
+    - _WarpInt: 0.2
+    - _reflectPow: -0.19
+    m_Colors:
+    - _DeepCol: {r: 0.015352436, g: 0.3273471, b: 0.6509434, a: 1}
+    - _LightDir: {r: 2.5, g: 2.36, b: -0.76, a: 0}
+    - _MainCol: {r: 0.058823522, g: 0.36862746, b: 0.2391713, a: 1}
+    - _ShallowCol: {r: 0.30936277, g: 0.8301887, b: 0.78908193, a: 1}
+    - _SpecularCol: {r: 0, g: 0.6102902, b: 7.0738187, a: 1}
+    - _SpecularColor: {r: 0.754717, g: 0.754717, b: 0.754717, a: 1}
+    - _WaveSpeed: {r: 2, g: 2, b: 2, a: 2}
+    - _qiantanCol: {r: 0.3063813, g: 0.643325, b: 0.8018868, a: 1}

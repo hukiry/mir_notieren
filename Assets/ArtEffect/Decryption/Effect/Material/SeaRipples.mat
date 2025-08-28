@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SeaRipples
+  m_Shader: {fileID: 4800000, guid: c14322f7a85ac8f4ca7bc3b00c97112a, type: 3}
+  m_ShaderKeywords: _DISTORTENABLED_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortTex:
+        m_Texture: {fileID: 2800000, guid: ddb7e8bd37e88a24ab283884ee8ecd96, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _Lianyi:
+        m_Texture: {fileID: 2800000, guid: fda84cad83766d04b98f2e1a13bc8955, type: 3}
+        m_Scale: {x: 50, y: 50}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: fda84cad83766d04b98f2e1a13bc8955, type: 3}
+        m_Scale: {x: 60, y: 60}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ripples:
+        m_Texture: {fileID: 2800000, guid: f1ac64697c3c8e14ebfad96928526e69, type: 3}
+        m_Scale: {x: 0.04, y: 0.01}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: ddb7e8bd37e88a24ab283884ee8ecd96, type: 3}
+        m_Scale: {x: 0.01, y: 0.01}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cull: 0
+    - _Distort: 0.1
+    - _DistortEnabled: 1
+    - _DistortUVSpeedX: 0.05
+    - _DistortUVSpeedY: 0.03
+    - _DstBlend: 1
+    - _Intensity: 1.6
+    - _LianyiIntensity: 1
+    - _Lightmodle: 0.24
+    - _MainUVSpeedX: -0.12
+    - _MainUVSpeedY: -0.1
+    - _MaskEnabled: 0
+    - _MaskUVSpeedX: 0
+    - _MaskUVSpeedY: 0
+    - _Opacity: 0.25
+    - _QiantanIntensity: 0.9
+    - _ReflectPow: 2.67
+    - _RipplesIntensity: 4.42
+    - _ShallowOp: 0.36
+    - _Shininess: 1.34
+    - _SrcBlend: 1
+    - _qiantanIntensity: 0.57
+    - _reflectPow: 0.2
+    m_Colors:
+    - _DeepCol: {r: 0.26820046, g: 0.3987524, b: 0.46226418, a: 1}
+    - _LianyiCol: {r: 1, g: 1, b: 1, a: 1}
+    - _LightDir: {r: 1, g: 25, b: -12, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _ShallowCol: {r: 0.35590956, g: 0.528825, b: 0.5849056, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterCol1: {r: 0.15999997, g: 0.5, b: 0.69, a: 1}
+    - _WaterCol2: {r: 0.11999995, g: 0.24999997, b: 0.31999996, a: 1}
+    - _WaveSpeed: {r: 0.65, g: 0.85, b: 0.6, a: 1}
+    - _qiantanCol: {r: 1, g: 1, b: 1, a: 1}

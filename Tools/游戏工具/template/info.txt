@@ -1,0 +1,13 @@
+---
+--- {class} :{desc}
+--- Author : hukiry     
+--- DateTime {time}
+---
+
+---@class {class}
+local {class} = Class()
+function {class}:ctor()
+
+end
+
+return {class}

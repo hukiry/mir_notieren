@@ -1,0 +1,45 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}Panel:DisplayObjectBase
+local {#class#}Panel = Class(DisplayObjectBase)
+
+function {#class#}Panel:ctor()
+	---@type {#class#}PanelControl
+	self.panelCtrl = nil
+end
+
+---初始界面:注册按钮事件等
+function {#class#}Panel:Start()
+	
+end
+
+---事件派发
+function {#class#}Panel:OnDispatch(...)
+
+end
+
+---显示窗口:初次打开
+function {#class#}Panel:OnEnable(...)
+	
+end
+
+---显示中重复打开
+function {#class#}Panel:OnRefresh()
+
+end
+
+---隐藏窗口
+function {#class#}Panel:OnDisable()
+	
+end
+
+---消耗释放资源
+function {#class#}Panel:OnDestroy()
+	self.panelCtrl:OnDestroy()
+end
+
+return {#class#}Panel

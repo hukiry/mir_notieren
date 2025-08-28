@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3316418410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef42c798437e5047b2d1011e056a4c04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/pay_reward.wav
+Dependencies: []

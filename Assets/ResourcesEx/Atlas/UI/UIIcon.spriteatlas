@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIIcon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e123aed7e898904a9f5211f02ce434d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b781e010b9681af4ab710c53778eca78, type: 3}
+  - {fileID: 21300000, guid: 15b750a045eb0774993cfb4f9f18646a, type: 3}
+  - {fileID: 21300000, guid: 6b0999e0370a4a647b0cd463749b1deb, type: 3}
+  - {fileID: 21300000, guid: 1ede9601c1169eb42ac128aafa273e79, type: 3}
+  - {fileID: 21300000, guid: 1a0f90e1ba5cfb54c9ede41809999c94, type: 3}
+  - {fileID: 21300000, guid: 95cc93b2154742e46922eeda87c14a0c, type: 3}
+  - {fileID: 21300000, guid: f1394f33813ea1742aafef5ab8d53816, type: 3}
+  - {fileID: 21300000, guid: d93548b360ec1f14687ce59d2a3957af, type: 3}
+  - {fileID: 21300000, guid: 358029d34e634e8438a05610563ee36b, type: 3}
+  - {fileID: 21300000, guid: 5a4a41f3ebe2d424d8d86522dce79b36, type: 3}
+  - {fileID: 21300000, guid: 23a357143e3d15b43898f05436f1ab6d, type: 3}
+  - {fileID: 21300000, guid: b1185d24c67fcf343864eb44e0b975bc, type: 3}
+  - {fileID: 21300000, guid: 1a4b5d2459b0c5d4c845a5ceb7f61f07, type: 3}
+  - {fileID: 21300000, guid: 1e021974278152847b110b34ee3685db, type: 3}
+  - {fileID: 21300000, guid: 68d503844facefa47ac8a280695e53c3, type: 3}
+  - {fileID: 21300000, guid: d6b147e49f8455649810e1c582d85f87, type: 3}
+  - {fileID: 21300000, guid: 63910f25d7c068d4f9b704eb17bcb396, type: 3}
+  - {fileID: 21300000, guid: aab6eb555cee4424fb8b3bcde302b964, type: 3}
+  - {fileID: 21300000, guid: 24b623950eb449a48bb0dbc6b29bd9dc, type: 3}
+  - {fileID: 21300000, guid: ad336b959ccc4a14eb84a7cc4e46dc71, type: 3}
+  - {fileID: 21300000, guid: fb3982a5685d6cc4da6f46780c4be060, type: 3}
+  - {fileID: 21300000, guid: 492098c59c4519f45adb98d343e5080c, type: 3}
+  - {fileID: 21300000, guid: 7b31e3c6c0d919d428db22260ebf9837, type: 3}
+  - {fileID: 21300000, guid: d3a8bde6fd1f21b4790f67db67d54c0a, type: 3}
+  - {fileID: 21300000, guid: 4f5970274bb0c1649979f5b75628c4fd, type: 3}
+  - {fileID: 21300000, guid: 58fd1827d7892004d96e2e85b6f40e09, type: 3}
+  - {fileID: 21300000, guid: 27c6c8099b8a81c47aa665b5fe312161, type: 3}
+  - {fileID: 21300000, guid: f0029c69ed6b95e4a8b22b125b1ff972, type: 3}
+  - {fileID: 21300000, guid: c765ddb9c6f4a334ea3de7bd93bd91e1, type: 3}
+  - {fileID: 21300000, guid: b61b824ab158636449ec42965c678d2b, type: 3}
+  - {fileID: 21300000, guid: 1c7f496a49ee44242848dea7ec571cad, type: 3}
+  - {fileID: 21300000, guid: 96d89bdaf4d7db84fbd82aa3bb0d8356, type: 3}
+  - {fileID: 21300000, guid: a8c6292bfa6bc2b4fa1c4640f34fb19b, type: 3}
+  - {fileID: 21300000, guid: ecc1464bd640ec349a605b8ca3ead2c9, type: 3}
+  - {fileID: 21300000, guid: c058475b061d2d84f8e028242a5cf3ee, type: 3}
+  - {fileID: 21300000, guid: bc5b3d5bccd81614eb277e1ab182be2b, type: 3}
+  - {fileID: 21300000, guid: 251f769ba991de84087a33927f3b8b40, type: 3}
+  - {fileID: 21300000, guid: f9c3389baed8b7f4d8d8124d2651a207, type: 3}
+  - {fileID: 21300000, guid: 0bbf3f3c28b105a48996ccc227e5be64, type: 3}
+  - {fileID: 21300000, guid: 5ccb925c828d57c4a8ceba5c44860976, type: 3}
+  - {fileID: 21300000, guid: 5056137c46d0d6d42a531ea07326347c, type: 3}
+  - {fileID: 21300000, guid: c0fb39acb07dbac40b5cf78c48ae5dc7, type: 3}
+  - {fileID: 21300000, guid: e28b4bbc7c00927438fb6edef3a56e02, type: 3}
+  - {fileID: 21300000, guid: 43e5c21dea10c3a4993b50afe5396d53, type: 3}
+  - {fileID: 21300000, guid: 0506988d105f6974fb54b3593e5fefcc, type: 3}
+  - {fileID: 21300000, guid: c1262aae019aac148a3bfffa744af3a9, type: 3}
+  - {fileID: 21300000, guid: 9c93dbbedb94d624593572dd3ff6d890, type: 3}
+  - {fileID: 21300000, guid: 1313832f8a708ae4d9e79daec4af22fc, type: 3}
+  - {fileID: 21300000, guid: 9fbcfd3faad62914ab88e6914a2200b4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - quit
+  - hecheng
+  - music
+  - baoxiang4
+  - gth
+  - suo1
+  - qian1
+  - xl_0
+  - libao
+  - qian2
+  - txz
+  - rili
+  - dmf
+  - faguang3
+  - jingqi1
+  - youjian
+  - naozhong2
+  - xmf
+  - suo
+  - yunduan
+  - gou
+  - jiayuan
+  - xiaohao1
+  - wenhao
+  - haoyou
+  - baoxiang5
+  - bi
+  - shouchong
+  - effect
+  - lihe
+  - star
+  - baoxiang1
+  - faguang2
+  - shezhi
+  - xiaolong2
+  - pxb
+  - baoxiang2
+  - chouka
+  - jhbz
+  - xl_1
+  - yunduan0
+  - shalou
+  - shangdian
+  - faguang1
+  - naozhong
+  - xiaolong1
+  - baoxiang3
+  - naozhong1
+  - naozhong3
+  m_Tag: UIIcon
+  m_IsVariant: 0

@@ -1,0 +1,5 @@
+
+使用如下
+1，挂载脚本  NetManager
+2，注册相关方法
+3，注册 SetQueueOnMainThread

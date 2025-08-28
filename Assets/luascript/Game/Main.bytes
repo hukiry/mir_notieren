@@ -1,0 +1,48 @@
+--package.cpath = package.cpath .. ';C:/Users/Administrator/AppData/Roaming/JetBrains/IdeaIC2020.3/plugins/intellij-emmylua/classes/debugger/emmy/windows/x64/?.dll'
+--local dbg = require('emmy_core')
+--dbg.tcpListen('localhost', 9966)
+
+--主入口函数。从这里开始lua逻辑
+
+Main = {}
+
+function Main:Start(manifestText)
+	require 'Library.Loader.Res.SingleAssist'
+	require 'LuaConfig.SingleConfig'
+	require "Game.Manager.Common"
+	require "Game.Manager.Util"
+	require 'Game.Test.Test'
+
+	math.randomseed(os.time())
+	--一、初始化全局符号
+	GameSymbols:Init()
+	--二、初始化UI；
+	UIManager:Init()
+	--三、初始化SDK
+	Single.SdkPlatform():InitSDK()
+	--四、初始化网络
+	NetSocket:Init()
+	--五、初始化游戏中心
+	Single.GameCenter():Init()
+	--六，初始化资源加载器
+	if not USE_CCHARP then
+		SingleAssist.LoaderMgr():Initialize()
+		SingleAssist.AssetBundle():RecoverManifestData(manifestText)
+	end
+	--开始加载Loading,打开登录面板
+	---LuaApplication.ChangeState(LoginLoading)====取消登录场景
+	UIManager:OpenWindow(ViewID.Loading, nil, math.random(0.01,0.55), function()
+		SingleData.Login():ConnectServer()
+	end)
+end
+
+---暂停游戏
+function Main:OnApplicationPause(pause, seconds)
+	Single.GameCenter():OnApplicationPause(pause, seconds)
+end
+
+---退出游戏
+function Main:OnApplicationQuit()
+	Single.GameCenter():SaveHomeData(true)
+end
+

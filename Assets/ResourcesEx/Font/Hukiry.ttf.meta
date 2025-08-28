@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6dbed290d4b9f94e8025c8b6d951c1b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brady Bunch Remastered
+  fontNames:
+  - Brady Bunch Remastered
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: resourcesex/font/hukiry.ab
+  assetBundleVariant: 

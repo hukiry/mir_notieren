@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 128509792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e7b68c3f803425dc6f8c26f3d3ad386
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6172a665565190cfa55cde282bd43013
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 519226cdfcdd68145a6c4a445a083e19, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/Effect/ui_rechargeReward.prefab
+Dependencies: []

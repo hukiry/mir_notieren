@@ -1,0 +1,18 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}ToServer
+local {#class#}ToServer = {}
+
+---请求数据
+function {#class#}ToServer.SendTest(onlyCode, backCall)
+    ---@type TOS_1001
+    --local msg = NetSocket.pb(Protocal.TOS_1102)
+    --msg.onlyCode = onlyCode
+    --NetSocket:Send(Protocal.TOS_1102, msg, {backCall=backCall})
+end
+
+return {#class#}ToServer

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f6b2c000612444f9b8b9a891de0097, type: 3}
+  m_Name: SymbolSetting
+  m_EditorClassIdentifier: 
+  isShaowHierarchyIcon: 1
+  isEnableAssetbundleTest: 0
+  isEnableFps: 1
+  isEnableWifiView: 1
+  isEnableSdk: 0
+  isEnableLua: 1
+  isEnableHotUpdate: 0
+  isEnableModel: 0
+  isEnableSocket: 0
+  isUseCCharp: 1
+  isRelease: 0
+  isStrongSocket: 0

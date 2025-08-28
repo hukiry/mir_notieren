@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2308476443
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f232562cf2f9be7c993556624e270074
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luascript/ToLua/UnityEngine/Vector2.bytes
+- Assets/luascript/ToLua/UnityEngine/Vector4.bytes
+- Assets/luascript/ToLua/socket/http.bytes
+- Assets/luascript/ToLua/typeof.bytes
+- Assets/luascript/ToLua/jit/dis_mips64el.bytes
+- Assets/luascript/ToLua/UnityEngine/Profiler.bytes
+- Assets/luascript/ToLua/jit/p.bytes
+- Assets/luascript/ToLua/System/Injection/InjectionBridgeInfo.bytes
+- Assets/luascript/ToLua/event.bytes
+- Assets/luascript/ToLua/slot.bytes
+- Assets/luascript/ToLua/UnityEngine/Quaternion.bytes
+- Assets/luascript/ToLua/UnityEngine/LayerMask.bytes
+- Assets/luascript/ToLua/jit/dis_arm.bytes
+- Assets/luascript/ToLua/socket/mbox.bytes
+- Assets/luascript/ToLua/jit/dis_mips64.bytes
+- Assets/luascript/ToLua/System/coroutine.bytes
+- Assets/luascript/ToLua/socket.bytes
+- Assets/luascript/ToLua/mime.bytes
+- Assets/luascript/ToLua/socket/smtp.bytes
+- Assets/luascript/ToLua/jit/dis_mips.bytes
+- Assets/luascript/ToLua/System/ValueType.bytes
+- Assets/luascript/ToLua/jit/dis_x64.bytes
+- Assets/luascript/ToLua/jit/bc.bytes
+- Assets/luascript/ToLua/System/Injection/LuaInjectionBus.bytes
+- Assets/luascript/ToLua/jit/dis_mipsel.bytes
+- Assets/luascript/ToLua/System/Reflection/BindingFlags.bytes
+- Assets/luascript/ToLua/UnityEngine/Plane.bytes
+- Assets/luascript/ToLua/UnityEngine/Mathf.bytes
+- Assets/luascript/ToLua/jit/dis_arm64.bytes
+- Assets/luascript/ToLua/list.bytes
+- Assets/luascript/ToLua/UnityEngine/Bounds.bytes
+- Assets/luascript/ToLua/UnityEngine/Color.bytes
+- Assets/luascript/ToLua/misc/utf8.bytes
+- Assets/luascript/ToLua/ltn12.bytes
+- Assets/luascript/ToLua/jit/zone.bytes
+- Assets/luascript/ToLua/jit/v.bytes
+- Assets/luascript/ToLua/System/Injection/LuaInjectionStation.bytes
+- Assets/luascript/ToLua/misc/functions.bytes
+- Assets/luascript/ToLua/cjson/util.bytes
+- Assets/luascript/ToLua/socket/headers.bytes
+- Assets/luascript/ToLua/misc/strict.bytes
+- Assets/luascript/ToLua/UnityEngine/Vector3.bytes
+- Assets/luascript/ToLua/jit/dis_arm64be.bytes
+- Assets/luascript/ToLua/UnityEngine/Ray.bytes
+- Assets/luascript/ToLua/Class.bytes
+- Assets/luascript/ToLua/lpeg/re.bytes
+- Assets/luascript/ToLua/socket/ftp.bytes
+- Assets/luascript/ToLua/jit/vmdef.bytes
+- Assets/luascript/ToLua/jit/dis_ppc.bytes
+- Assets/luascript/ToLua/System/Timer.bytes
+- Assets/luascript/ToLua/tolua.bytes
+- Assets/luascript/ToLua/jit/dump.bytes
+- Assets/luascript/ToLua/socket/tp.bytes
+- Assets/luascript/ToLua/UnityEngine/Touch.bytes
+- Assets/luascript/ToLua/jit/dis_x86.bytes
+- Assets/luascript/ToLua/UnityEngine/Time.bytes
+- Assets/luascript/ToLua/socket/url.bytes
+- Assets/luascript/ToLua/jit/bcsave.bytes
+- Assets/luascript/ToLua/UnityEngine/RaycastHit.bytes
+Dependencies: []

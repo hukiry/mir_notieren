@@ -1,0 +1,15 @@
+#配置则生效，否则不生效 》【重命名图片文件】
+#文件目录路径
+ DirPath =D:\work\Game\Client\策划和美术\方块项目
+
+#如果以下名称和路径配置，则生成 》【项目立项】
+#计划目录名
+ WorkName = 
+#项目计划目录路径
+ WorkDirPath = E:\Work\创业 Merge\游戏项目
+
+#如果以下名称和路径配置，则生成 》【项目lua】
+#项目名称，
+ ProjectName = 
+#项目工程Lua脚本目录路径
+ ProjectDirPath = D:\work\Game\Client\project_sanxiao\LuaScript

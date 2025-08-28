@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3295696159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8416bdc177c527e11d17dff9c5afc86f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 658bdb41f13e1d04c3e9695ed91d25cd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcc3c943d01d2544f8902bc2f2312e9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059314a4cb2c5d4caac4aae7ca42601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e119a72f93a094548ba5084da9ff2698, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/UI/Metauniverse/Item/GraphicFightItem.prefab
+Dependencies:
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uimeta.ab

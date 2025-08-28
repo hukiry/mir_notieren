@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: f414c6f44f6102e48be7562fa84fe9ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -466168631853973879
+    second: apple
+  - first:
+      213: -7461170340644899378
+    second: mianban3
+  - first:
+      213: -432324286820619494
+    second: frame
+  - first:
+      213: 2686310782986636317
+    second: mianban4
+  - first:
+      213: -7314199459139394530
+    second: google
+  - first:
+      213: -6064897685297191558
+    second: fangtiao3
+  - first:
+      213: -3945793153361935038
+    second: fangkuai2
+  - first:
+      213: 7704620094436579510
+    second: fangkuai12
+  - first:
+      213: 1357096566367519779
+    second: mask
+  - first:
+      213: -2969963820678443220
+    second: changtiao1
+  - first:
+      213: -6675655898840141554
+    second: quxiao1
+  - first:
+      213: 8347497556230996848
+    second: fangkuai4
+  - first:
+      213: 2342715675759892285
+    second: changtiao11
+  - first:
+      213: -1331229755543133851
+    second: changtiao9
+  - first:
+      213: -7703468200321156643
+    second: anniu2
+  - first:
+      213: -5070175484957549795
+    second: btl4
+  - first:
+      213: 1652082795675694281
+    second: changtiao8
+  - first:
+      213: 6459408924519076210
+    second: mianban10
+  - first:
+      213: -6790018485386733477
+    second: yuandi5
+  - first:
+      213: 8573795862639233995
+    second: fangkuai11
+  - first:
+      213: -9218252443662369032
+    second: btl3
+  - first:
+      213: -1920255838927069050
+    second: fangkuai3
+  - first:
+      213: -7468872923012429205
+    second: changtiao12
+  - first:
+      213: 4635883900927747720
+    second: circle
+  - first:
+      213: -1657442966582144793
+    second: quxiao3
+  - first:
+      213: 8990514117270843586
+    second: yuandi6
+  - first:
+      213: -3070752743144699175
+    second: fangkuai10
+  - first:
+      213: -4124690394664288473
+    second: yuandi4
+  - first:
+      213: 7240826881170831454
+    second: changtiao2
+  - first:
+      213: 3671732205339981496
+    second: user_di
+  - first:
+      213: -8379095523005574213
+    second: yuandi2
+  - first:
+      213: -2400515189076625564
+    second: btl2
+  - first:
+      213: -7550173895397305659
+    second: ckbj
+  - first:
+      213: 5731900908276823816
+    second: changtiao13
+  - first:
+      213: 5376295944964285156
+    second: anniu3
+  - first:
+      213: 6940255431639175479
+    second: mianban5
+  - first:
+      213: 2836738170862912090
+    second: dhk
+  - first:
+      213: 3448682447648429378
+    second: btl7
+  - first:
+      213: 8664485476475814533
+    second: yuandi3
+  - first:
+      213: 2163049070052731367
+    second: SignInBg
+  - first:
+      213: -5224720843049130345
+    second: quxiao4
+  - first:
+      213: 2385414298118020850
+    second: changtiao4
+  - first:
+      213: -1601552680459837455
+    second: changtiao10
+  - first:
+      213: -8627317571126936212
+    second: btl8
+  - first:
+      213: -3453424483353621797
+    second: fangkuai14
+  - first:
+      213: -4341805147286177833
+    second: fangtiao5
+  - first:
+      213: -3401585841305939942
+    second: tengman2
+  - first:
+      213: -3753643982670231346
+    second: mianban2
+  - first:
+      213: 638324808715284249
+    second: btl5
+  - first:
+      213: 5470054229719398218
+    second: mianban7
+  - first:
+      213: -7831582691727238239
+    second: jdt2
+  - first:
+      213: -6640888241926449482
+    second: fangtiao1
+  - first:
+      213: -8601159505536292699
+    second: fangkuai15
+  - first:
+      213: 8478364335135465474
+    second: fangkuai8
+  - first:
+      213: -2371889529402062767
+    second: changtiao3
+  - first:
+      213: -4642536756588562124
+    second: changtiao5
+  - first:
+      213: -8378055617626853821
+    second: changtiao6
+  - first:
+      213: 1688735218894030972
+    second: shugang2
+  - first:
+      213: -5317564224706699335
+    second: btl1
+  - first:
+      213: 5785382934995432076
+    second: fangkuai7
+  - first:
+      213: -7458116486353418572
+    second: fangkuai6
+  - first:
+      213: -99686280608305628
+    second: btl9
+  - first:
+      213: 4504851129006061711
+    second: ditan2
+  - first:
+      213: -3921900812818271375
+    second: fangkuai5
+  - first:
+      213: -7470142058355059474
+    second: ditan1
+  - first:
+      213: -3970020668323334592
+    second: quxiao2
+  - first:
+      213: -6977984227874550350
+    second: changtiao7
+  - first:
+      213: -2566472393892871590
+    second: fangkuai13
+  - first:
+      213: -2399781606106465935
+    second: mianban8
+  - first:
+      213: -3617824534668758582
+    second: anniu1
+  - first:
+      213: 5203660438514882399
+    second: fangtiao4
+  - first:
+      213: -2122478566114495136
+    second: shugang1
+  - first:
+      213: -8306096290428710689
+    second: fangkuai1
+  - first:
+      213: 8446452609034553893
+    second: mianban1
+  - first:
+      213: 8301424943275276560
+    second: fangtiao6
+  - first:
+      213: 468797151232742798
+    second: yuandi1
+  - first:
+      213: -5472422169860467948
+    second: mianban11
+  - first:
+      213: 2517451788164464216
+    second: btl6
+  - first:
+      213: -7502995142114206356
+    second: fangkuai9
+  - first:
+      213: 3235728836137632848
+    second: user_btn
+  - first:
+      213: 3224866423220736055
+    second: jdt1
+  - first:
+      213: 3774092232432628184
+    second: gou
+  - first:
+      213: 7928856035278880912
+    second: fangtiao2
+  - first:
+      213: 5337135890034003424
+    second: mianban6
+  - first:
+      213: 1593163573775801257
+    second: mianban9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: apple
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 271
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef9e46916d789f0800000000000000
+      internalID: -466168631853973879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban3
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 913
+        width: 237
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec53e2d2b19947890800000000000000
+      internalID: -7461170340644899378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1309
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 24, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b68480a53100af0800000000000000
+      internalID: -432324286820619494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 960
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 101, y: 88, z: 86, w: 78}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c4838ac61b74520800000000000000
+      internalID: 2686310782986636317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1860
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1464ad185ebe7a90800000000000000
+      internalID: -7314199459139394530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao3
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 952
+        width: 85
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 18, z: 24, w: 79}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75a5cc30b725dba0800000000000000
+      internalID: -6064897685297191558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1628
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 42, z: 43, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24581b0680abd39c0800000000000000
+      internalID: -3945793153361935038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1695
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89a32b72f4cea60800000000000000
+      internalID: 7704620094436579510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1855
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240d3c032065d210800000000000000
+      internalID: 1357096566367519779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao1
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1086
+        width: 164
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 61, y: 0, z: 71, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f03b004a198c6d0800000000000000
+      internalID: -2969963820678443220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quxiao1
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 952
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0174e2445e4b53a0800000000000000
+      internalID: -6675655898840141554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1865
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 52, y: 53, z: 51, w: 44}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073079aecc448d370800000000000000
+      internalID: 8347497556230996848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao11
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 498
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 0, z: 39, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37586fae7ff28020800000000000000
+      internalID: 2342715675759892285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao9
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 662
+        width: 403
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 163, y: 0, z: 179, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561eb6a2795868de0800000000000000
+      internalID: -1331229755543133851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anniu2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1777
+        width: 148
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 56, y: 0, z: 55, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f65d8c78c71590800000000000000
+      internalID: -7703468200321156643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1318
+        width: 273
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 82, y: 0, z: 119, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b1636624e13a9b0800000000000000
+      internalID: -5070175484957549795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 803
+        width: 598
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 285, y: 0, z: 293, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b8cfac806de610800000000000000
+      internalID: 1652082795675694281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban10
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 274
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27192f4813e64a950800000000000000
+      internalID: 6459408924519076210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1846
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b581030a92205c1a0800000000000000
+      internalID: -6790018485386733477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1611
+        width: 169
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 49, z: 52, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb435149ed3cf670800000000000000
+      internalID: 8573795862639233995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1281
+        width: 278
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 81, y: 0, z: 118, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb0ad2e30321080800000000000000
+      internalID: -9218252443662369032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai3
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1760
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680e1ea0d71e955e0800000000000000
+      internalID: -1920255838927069050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao12
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 639
+        width: 409
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 176, y: 0, z: 176, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8f47f5ab395890800000000000000
+      internalID: -7468872923012429205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 547
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88620ce88d7f55040800000000000000
+      internalID: 4635883900927747720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quxiao3
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1632
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0d66547649ff8e0800000000000000
+      internalID: -1657442966582144793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1241
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03014b4f8b4cc70800000000000000
+      internalID: 8990514117270843586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai10
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1362
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 45, y: 42, z: 47, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacdcf46ae7265d0800000000000000
+      internalID: -3070752743144699175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1418
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb19980f722c6c0800000000000000
+      internalID: -4124690394664288473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1777
+        width: 186
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 0, z: 66, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5879445fa59c7460800000000000000
+      internalID: 7240826881170831454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: user_di
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1695
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b6a1bcfc94f230800000000000000
+      internalID: 3671732205339981496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 321
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3df24240977bb80800000000000000
+      internalID: -8379095523005574213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1587
+        width: 276
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 0, z: 122, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467782d6728afaed0800000000000000
+      internalID: -2400515189076625564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ckbj
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1357
+        width: 232
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 79, y: 95, z: 77, w: 75}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c29a6c38d4683790800000000000000
+      internalID: -7550173895397305659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1193
+        width: 338
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 153, y: 0, z: 157, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8073495d18dcb8f40800000000000000
+      internalID: 5731900908276823816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anniu3
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1537
+        width: 190
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 0, z: 68, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e228f65da07c9a40800000000000000
+      internalID: 5376295944964285156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban5
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 249
+        width: 253
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73114554b8db05060800000000000000
+      internalID: 6940255431639175479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dhk
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 807
+        width: 118
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 69, z: 32, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524313365e1e5720800000000000000
+      internalID: 2836738170862912090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl7
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 913
+        width: 214
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245953b0a6e2cdf20800000000000000
+      internalID: 3448682447648429378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi3
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1318
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824fda62af6e3870800000000000000
+      internalID: 8664485476475814533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignInBg
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 662
+        width: 174
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 0, z: 60, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96b3c3ba1b40e10800000000000000
+      internalID: 2163049070052731367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quxiao4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1718
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962a7333101e77b0800000000000000
+      internalID: -5224720843049130345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1481
+        width: 178
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 0, z: 77, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe56796aa1ba1120800000000000000
+      internalID: 2385414298118020850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao10
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1149
+        width: 296
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 0, z: 119, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffdd10925426c9e0800000000000000
+      internalID: -1601552680459837455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 960
+        width: 157
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 54, y: 17, z: 64, w: 56}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d3e78e06c954880800000000000000
+      internalID: -8627317571126936212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1045
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 21, z: 44, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda021bbab8f210d0800000000000000
+      internalID: -3453424483353621797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 321
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77b00f83fceb3c0800000000000000
+      internalID: -4341805147286177833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tengman2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1718
+        width: 215
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1016ff13b32bc0d0800000000000000
+      internalID: -3401585841305939942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 960
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec888a77fa068ebc0800000000000000
+      internalID: -3753643982670231346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl5
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 0
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 79, z: 0, w: 161}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2bc21809cbd800800000000000000
+      internalID: 638324808715284249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1190
+        width: 232
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 107, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473c80275989eb40800000000000000
+      internalID: 5470054229719398218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jdt2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1145
+        width: 379
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 156, y: 0, z: 141, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab108e0901a05390800000000000000
+      internalID: -7831582691727238239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao1
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1615
+        width: 53
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 0, z: 14, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d7e23453d6d3a0800000000000000
+      internalID: -6640888241926449482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1475
+        width: 166
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e808200b82a880800000000000000
+      internalID: -8601159505536292699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1746
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 49, y: 52, z: 53, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002718417339a570800000000000000
+      internalID: 8478364335135465474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 271
+        width: 350
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 112, y: 0, z: 127, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15885813a0b551fd0800000000000000
+      internalID: -2371889529402062767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 961
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 415, y: 20, z: 451, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43938d6ca65629fb0800000000000000
+      internalID: -4642536756588562124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1594
+        width: 177
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 0, z: 70, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea2eafdca2bbb80800000000000000
+      internalID: -8378055617626853821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shugang2
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 913
+        width: 15
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 56, z: 0, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ced9fbb79f6710800000000000000
+      internalID: 1688735218894030972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl1
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 807
+        width: 233
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 91, y: 18, z: 105, w: 95}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1804e2873436b0800000000000000
+      internalID: -5317564224706699335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai7
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1628
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 39, z: 30, w: 26}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82720a802fc94050800000000000000
+      internalID: 5785382934995432076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1180
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 50, z: 44, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68b6902927f7890800000000000000
+      internalID: -7458116486353418572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl9
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1537
+        width: 161
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 25, z: 56, w: 56}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eac5f1bd7dd9ef0800000000000000
+      internalID: -99686280608305628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ditan2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 911
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 189, y: 0, z: 73, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887c6eeb32748e30800000000000000
+      internalID: 4504851129006061711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1732
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b6a76dfb9299c0800000000000000
+      internalID: -3921900812818271375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ditan1
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 211
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49a0e5069b45890800000000000000
+      internalID: -7470142058355059474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quxiao2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1481
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f0a97c37a7e8c0800000000000000
+      internalID: -3970020668323334592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changtiao7
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 498
+        width: 384
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 158, y: 0, z: 175, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4241d058392f90800000000000000
+      internalID: -6977984227874550350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1869
+        width: 139
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 51, y: 47, z: 63, w: 41}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524b2c94fe026cd0800000000000000
+      internalID: -2566472393892871590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 913
+        width: 247
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 106, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179f185085342bed0800000000000000
+      internalID: -2399781606106465935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anniu1
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 429
+        width: 330
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 131, y: 0, z: 142, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13067f0c7eacdc0800000000000000
+      internalID: -3617824534668758582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao4
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 249
+        width: 67
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 61, z: 16, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57de61499d173840800000000000000
+      internalID: 5203660438514882399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shugang1
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1634
+        width: 6
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 77, z: 0, w: 51}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657d5f4df07b82e0800000000000000
+      internalID: -2122478566114495136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1438
+        width: 177
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 54, y: 46, z: 55, w: 42}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd09ec27e61dabc80800000000000000
+      internalID: -8306096290428710689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 245
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 102, y: 102, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a0dad85e3d73570800000000000000
+      internalID: 8446452609034553893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao6
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1187
+        width: 57
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 58, z: 16, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197d79c006943370800000000000000
+      internalID: 8301424943275276560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yuandi1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1438
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8551f67680818600800000000000000
+      internalID: 468797151232742798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 334
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 96, y: 96, z: 96, w: 96}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139e78d70d0e04b0800000000000000
+      internalID: -5472422169860467948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btl6
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1149
+        width: 265
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 0, z: 114, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef6b43019cfe220800000000000000
+      internalID: 2517451788164464216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangkuai9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1611
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 47, z: 47, w: 61}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d1dcabba100e790800000000000000
+      internalID: -7502995142114206356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: user_btn
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1716
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 12, z: 30, w: 44}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054c87b9b3e97ec20800000000000000
+      internalID: 3235728836137632848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jdt1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 369
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 141, y: 0, z: 130, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73018240de601cc20800000000000000
+      internalID: 3224866423220736055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gou
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1634
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d135bfa3e4406430800000000000000
+      internalID: 3774092232432628184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangtiao2
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1309
+        width: 97
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09082022e84f80e60800000000000000
+      internalID: 7928856035278880912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1357
+        width: 262
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 97, z: 100, w: 91}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed077b80d0511a40800000000000000
+      internalID: 5337135890034003424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mianban9
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 0
+        width: 261
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab9ff354dd0c1610800000000000000
+      internalID: 1593163573775801257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: resourcesex/atlas/ui/uicommon.ab
+  assetBundleVariant: 

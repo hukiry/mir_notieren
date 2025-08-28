@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2714585133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3359dab5128df53af7f662d9f178911
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/bubble.wav
+Dependencies: []

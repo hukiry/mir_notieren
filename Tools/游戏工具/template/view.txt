@@ -1,0 +1,28 @@
+---
+--- {class} :{desc}
+--- Author : hukiry     
+--- DateTime {time}
+---
+
+---操作视图 {class}
+---@class {class}:DisplayObjectBase
+local {class} = Class(DisplayObjectBase)
+function {class}:ctor(gameObject)
+{bodyNew}
+end
+
+---初始化子视图， 注册事件，计时器
+function {class}:OnStart()
+{bodyInit}
+end
+
+function {class}:OnEnable()
+
+end
+
+---每次隐藏视图：撤销事件，回收对象池，撤销计时器
+function {class}:OnDisable()
+
+end
+
+return {class}

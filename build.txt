@@ -1,0 +1,3140 @@
+基本部署：
+	输出包路径:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2
+	打包平台:	iOS
+	打包成功状态:	Unknown
+	打包目标平台:	iPhone
+	打包总时间:	00:00:00
+	打包开始时间:	6:19:36
+	打包结束时间:	6:19:36
+
+----------------------------------------------------------------------------
+部署文件：
+UnityEngine.AIModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.pdb
+	 role:	DebugInfo
+	 size:	9.766kB
+
+
+UnityEngine.ARModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll
+	 role:	ManagedEngineAPI
+	 size:	12.500kB
+
+
+UnityEngine.ARModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.pdb
+	 role:	DebugInfo
+	 size:	1.949kB
+
+
+UnityEngine.AccessibilityModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll
+	 role:	ManagedEngineAPI
+	 size:	12.000kB
+
+
+UnityEngine.AccessibilityModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.pdb
+	 role:	DebugInfo
+	 size:	1.422kB
+
+
+UnityEngine.AndroidJNIModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.pdb
+	 role:	DebugInfo
+	 size:	24.629kB
+
+
+UnityEngine.AnimationModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.pdb
+	 role:	DebugInfo
+	 size:	41.215kB
+
+
+UnityEngine.AssetBundleModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.pdb
+	 role:	DebugInfo
+	 size:	4.348kB
+
+
+UnityEngine.AudioModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.pdb
+	 role:	DebugInfo
+	 size:	12.180kB
+
+
+UnityEngine.ClothModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll
+	 role:	ManagedEngineAPI
+	 size:	15.000kB
+
+
+UnityEngine.ClothModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.pdb
+	 role:	DebugInfo
+	 size:	1.988kB
+
+
+UnityEngine.CoreModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.pdb
+	 role:	DebugInfo
+	 size:	316.891kB
+
+
+UnityEngine.CrashReportingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.CrashReportingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.pdb
+	 role:	DebugInfo
+	 size:	512字节
+
+
+UnityEngine.DSPGraphModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll
+	 role:	ManagedEngineAPI
+	 size:	17.500kB
+
+
+UnityEngine.DSPGraphModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.pdb
+	 role:	DebugInfo
+	 size:	1.395kB
+
+
+UnityEngine.DirectorModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.pdb
+	 role:	DebugInfo
+	 size:	1.398kB
+
+
+UnityEngine.GameCenterModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.pdb
+	 role:	DebugInfo
+	 size:	12.180kB
+
+
+UnityEngine.GridModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.pdb
+	 role:	DebugInfo
+	 size:	928字节
+
+
+UnityEngine.HotReloadModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll
+	 role:	ManagedEngineAPI
+	 size:	8.500kB
+
+
+UnityEngine.HotReloadModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.pdb
+	 role:	DebugInfo
+	 size:	188字节
+
+
+UnityEngine.IMGUIModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.pdb
+	 role:	DebugInfo
+	 size:	63.895kB
+
+
+UnityEngine.ImageConversionModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll
+	 role:	ManagedEngineAPI
+	 size:	12.500kB
+
+
+UnityEngine.ImageConversionModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.pdb
+	 role:	DebugInfo
+	 size:	1.316kB
+
+
+UnityEngine.InputLegacyModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.pdb
+	 role:	DebugInfo
+	 size:	5.645kB
+
+
+UnityEngine.InputModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.pdb
+	 role:	DebugInfo
+	 size:	1.445kB
+
+
+UnityEngine.JSONSerializeModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.pdb
+	 role:	DebugInfo
+	 size:	828字节
+
+
+UnityEngine.LocalizationModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.LocalizationModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.pdb
+	 role:	DebugInfo
+	 size:	592字节
+
+
+UnityEngine.ParticleSystemModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.pdb
+	 role:	DebugInfo
+	 size:	23.668kB
+
+
+UnityEngine.PerformanceReportingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.000kB
+
+
+UnityEngine.PerformanceReportingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.pdb
+	 role:	DebugInfo
+	 size:	208字节
+
+
+UnityEngine.Physics2DModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.pdb
+	 role:	DebugInfo
+	 size:	26.336kB
+
+
+UnityEngine.PhysicsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.pdb
+	 role:	DebugInfo
+	 size:	20.402kB
+
+
+UnityEngine.ProfilerModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll
+	 role:	ManagedEngineAPI
+	 size:	8.500kB
+
+
+UnityEngine.ProfilerModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.pdb
+	 role:	DebugInfo
+	 size:	188字节
+
+
+UnityEngine.ScreenCaptureModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.ScreenCaptureModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.pdb
+	 role:	DebugInfo
+	 size:	732字节
+
+
+UnityEngine.SharedInternalsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.pdb
+	 role:	DebugInfo
+	 size:	4.672kB
+
+
+UnityEngine.SpriteMaskModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.pdb
+	 role:	DebugInfo
+	 size:	292字节
+
+
+UnityEngine.SpriteShapeModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll
+	 role:	ManagedEngineAPI
+	 size:	13.500kB
+
+
+UnityEngine.SpriteShapeModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.pdb
+	 role:	DebugInfo
+	 size:	1.512kB
+
+
+UnityEngine.StreamingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.StreamingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.pdb
+	 role:	DebugInfo
+	 size:	240字节
+
+
+UnityEngine.SubstanceModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll
+	 role:	ManagedEngineAPI
+	 size:	13.000kB
+
+
+UnityEngine.SubstanceModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.pdb
+	 role:	DebugInfo
+	 size:	2.348kB
+
+
+UnityEngine.SubsystemsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.pdb
+	 role:	DebugInfo
+	 size:	3.477kB
+
+
+UnityEngine.TLSModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll
+	 role:	ManagedEngineAPI
+	 size:	8.500kB
+
+
+UnityEngine.TLSModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.pdb
+	 role:	DebugInfo
+	 size:	188字节
+
+
+UnityEngine.TerrainModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.pdb
+	 role:	DebugInfo
+	 size:	20.617kB
+
+
+UnityEngine.TerrainPhysicsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.TerrainPhysicsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.pdb
+	 role:	DebugInfo
+	 size:	552字节
+
+
+UnityEngine.TextCoreModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll
+	 role:	ManagedEngineAPI
+	 size:	182.500kB
+
+
+UnityEngine.TextCoreModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.pdb
+	 role:	DebugInfo
+	 size:	73.063kB
+
+
+UnityEngine.TextRenderingModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.pdb
+	 role:	DebugInfo
+	 size:	5.711kB
+
+
+UnityEngine.TilemapModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.pdb
+	 role:	DebugInfo
+	 size:	5.508kB
+
+
+UnityEngine.UIElementsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.pdb
+	 role:	DebugInfo
+	 size:	337.332kB
+
+
+UnityEngine.UIModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.pdb
+	 role:	DebugInfo
+	 size:	3.930kB
+
+
+UnityEngine.UNETModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll
+	 role:	ManagedEngineAPI
+	 size:	75.500kB
+
+
+UnityEngine.UNETModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.pdb
+	 role:	DebugInfo
+	 size:	20.492kB
+
+
+UnityEngine.UmbraModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll
+	 role:	ManagedEngineAPI
+	 size:	8.500kB
+
+
+UnityEngine.UmbraModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.pdb
+	 role:	DebugInfo
+	 size:	188字节
+
+
+UnityEngine.UnityAnalyticsModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.pdb
+	 role:	DebugInfo
+	 size:	7.953kB
+
+
+UnityEngine.UnityConnectModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll
+	 role:	ManagedEngineAPI
+	 size:	10.500kB
+
+
+UnityEngine.UnityConnectModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.pdb
+	 role:	DebugInfo
+	 size:	772字节
+
+
+UnityEngine.UnityTestProtocolModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+	 role:	ManagedEngineAPI
+	 size:	8.500kB
+
+
+UnityEngine.UnityTestProtocolModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.pdb
+	 role:	DebugInfo
+	 size:	188字节
+
+
+UnityEngine.UnityWebRequestAssetBundleModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+	 role:	ManagedEngineAPI
+	 size:	11.500kB
+
+
+UnityEngine.UnityWebRequestAssetBundleModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+	 role:	DebugInfo
+	 size:	1.547kB
+
+
+UnityEngine.UnityWebRequestAudioModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+	 role:	ManagedEngineAPI
+	 size:	10.500kB
+
+
+UnityEngine.UnityWebRequestAudioModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.pdb
+	 role:	DebugInfo
+	 size:	1000字节
+
+
+UnityEngine.UnityWebRequestModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.pdb
+	 role:	DebugInfo
+	 size:	16.910kB
+
+
+UnityEngine.UnityWebRequestTextureModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+	 role:	ManagedEngineAPI
+	 size:	10.500kB
+
+
+UnityEngine.UnityWebRequestTextureModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.pdb
+	 role:	DebugInfo
+	 size:	1.184kB
+
+
+UnityEngine.UnityWebRequestWWWModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.pdb
+	 role:	DebugInfo
+	 size:	4.027kB
+
+
+UnityEngine.VFXModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.pdb
+	 role:	DebugInfo
+	 size:	6.648kB
+
+
+UnityEngine.VRModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.pdb
+	 role:	DebugInfo
+	 size:	6.500kB
+
+
+UnityEngine.VehiclesModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll
+	 role:	ManagedEngineAPI
+	 size:	12.500kB
+
+
+UnityEngine.VehiclesModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.pdb
+	 role:	DebugInfo
+	 size:	1.254kB
+
+
+UnityEngine.VideoModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.pdb
+	 role:	DebugInfo
+	 size:	4.039kB
+
+
+UnityEngine.WindModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll
+	 role:	ManagedEngineAPI
+	 size:	9.500kB
+
+
+UnityEngine.WindModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.WindModule.pdb
+	 role:	DebugInfo
+	 size:	272字节
+
+
+UnityEngine.XRModule
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.pdb
+	 role:	DebugInfo
+	 size:	12.348kB
+
+
+UnityEngine
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.pdb
+	 role:	DebugInfo
+	 size:	300字节
+
+
+Assembly-CSharp-firstpass
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.pdb
+	 role:	DebugInfo
+	 size:	33.949kB
+
+
+Assembly-CSharp
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb
+	 role:	DebugInfo
+	 size:	883.449kB
+
+
+UIEffect
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UIEffect.pdb
+	 role:	DebugInfo
+	 size:	17.180kB
+
+
+UnityEngine.Purchasing.Apple
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Apple.pdb
+	 role:	DebugInfo
+	 size:	1.199kB
+
+
+Unity.Services.Core.Networking
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.dll
+	 role:	ManagedLibrary
+	 size:	7.000kB
+
+
+Unity.Services.Core.Networking
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.pdb
+	 role:	DebugInfo
+	 size:	1.203kB
+
+
+Unity.Services.Core.Telemetry
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.dll
+	 role:	ManagedLibrary
+	 size:	26.500kB
+
+
+Unity.Services.Core.Telemetry
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.pdb
+	 role:	DebugInfo
+	 size:	7.645kB
+
+
+UnityEngine.Purchasing.Stores
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Stores.pdb
+	 role:	DebugInfo
+	 size:	48.699kB
+
+
+Purchasing.Common
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Purchasing.Common.pdb
+	 role:	DebugInfo
+	 size:	3.805kB
+
+
+UnityEngine.Purchasing.Security
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Security.pdb
+	 role:	DebugInfo
+	 size:	19.469kB
+
+
+UnityEngine.Purchasing.AppleMacosStub
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.AppleMacosStub.pdb
+	 role:	DebugInfo
+	 size:	1.008kB
+
+
+Unity.Services.Core.Environments.Internal
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.dll
+	 role:	ManagedLibrary
+	 size:	4.000kB
+
+
+Unity.Services.Core.Environments.Internal
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.pdb
+	 role:	DebugInfo
+	 size:	536字节
+
+
+UnityEngine.Purchasing.AppleCore
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.AppleCore.pdb
+	 role:	DebugInfo
+	 size:	328字节
+
+
+UnityEngine.Purchasing
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.pdb
+	 role:	DebugInfo
+	 size:	9.879kB
+
+
+Unity.Services.Core.Analytics
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.dll
+	 role:	ManagedLibrary
+	 size:	4.000kB
+
+
+Unity.Services.Core.Analytics
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.pdb
+	 role:	DebugInfo
+	 size:	532字节
+
+
+UnityEngine.UI
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb
+	 role:	DebugInfo
+	 size:	95.816kB
+
+
+UnityEngine.Purchasing.WinRTCore
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.WinRTCore.pdb
+	 role:	DebugInfo
+	 size:	1.070kB
+
+
+Unity.Services.Core.Scheduler
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.dll
+	 role:	ManagedLibrary
+	 size:	8.500kB
+
+
+Unity.Services.Core.Scheduler
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.pdb
+	 role:	DebugInfo
+	 size:	2.305kB
+
+
+UnityEngine.Purchasing.Codeless
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Codeless.dll
+	 role:	ManagedLibrary
+	 size:	13.000kB
+
+
+UnityEngine.Purchasing.Codeless
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.Codeless.pdb
+	 role:	DebugInfo
+	 size:	2.957kB
+
+
+UnityEngine.Purchasing.SecurityCore
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.SecurityCore.pdb
+	 role:	DebugInfo
+	 size:	1.582kB
+
+
+Unity.Services.Core.Device
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.dll
+	 role:	ManagedLibrary
+	 size:	5.500kB
+
+
+Unity.Services.Core.Device
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.pdb
+	 role:	DebugInfo
+	 size:	1.469kB
+
+
+ParticleImage
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/ParticleImage.pdb
+	 role:	DebugInfo
+	 size:	24.797kB
+
+
+Unity.Services.Core.Registration
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.dll
+	 role:	ManagedLibrary
+	 size:	17.000kB
+
+
+Unity.Services.Core.Registration
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.pdb
+	 role:	DebugInfo
+	 size:	3.180kB
+
+
+UnityEngine.Purchasing.WinRTStub
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/UnityEngine.Purchasing.WinRTStub.pdb
+	 role:	DebugInfo
+	 size:	492字节
+
+
+Unity.Services.Core.Threading
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.dll
+	 role:	ManagedLibrary
+	 size:	5.500kB
+
+
+Unity.Services.Core.Threading
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.pdb
+	 role:	DebugInfo
+	 size:	1.090kB
+
+
+Unity.Services.Core
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.dll
+	 role:	ManagedLibrary
+	 size:	10.000kB
+
+
+Unity.Services.Core
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.pdb
+	 role:	DebugInfo
+	 size:	2.477kB
+
+
+Unity.Services.Core.Configuration
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.dll
+	 role:	ManagedLibrary
+	 size:	10.500kB
+
+
+Unity.Services.Core.Configuration
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.pdb
+	 role:	DebugInfo
+	 size:	3.113kB
+
+
+Unity.Services.Core.Environments
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.dll
+	 role:	ManagedLibrary
+	 size:	4.000kB
+
+
+Unity.Services.Core.Environments
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.pdb
+	 role:	DebugInfo
+	 size:	544字节
+
+
+Unity.Services.Core.Internal
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.dll
+	 role:	ManagedLibrary
+	 size:	49.500kB
+
+
+Unity.Services.Core.Internal
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.pdb
+	 role:	DebugInfo
+	 size:	16.117kB
+
+
+DemiLib
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/DemiLib.dll
+	 role:	ManagedLibrary
+	 size:	11.500kB
+
+
+DemiLib.dll
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/DemiLib.dll.mdb
+	 role:	DebugInfo
+	 size:	3.272kB
+
+
+DOTween.dll
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/DOTween.dll.mdb
+	 role:	DebugInfo
+	 size:	60.294kB
+
+
+DOTweenPro.dll
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/DOTweenPro.dll.mdb
+	 role:	DebugInfo
+	 size:	2.726kB
+
+
+Newtonsoft.Json
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/Newtonsoft.Json.pdb
+	 role:	DebugInfo
+	 size:	255.352kB
+
+
+System.Runtime.Serialization.Xml
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.Xml.dll
+	 role:	DependentManagedLibrary
+	 size:	7.000kB
+
+
+System.Xml.XPath.XDocument
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.Xml.XPath.XDocument.dll
+	 role:	DependentManagedLibrary
+	 size:	5.000kB
+
+
+System.ComponentModel.Composition
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.ComponentModel.Composition.dll
+	 role:	DependentManagedLibrary
+	 size:	242.000kB
+
+
+System.Drawing
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.Drawing.dll
+	 role:	DependentManagedLibrary
+	 size:	180.000kB
+
+
+System.EnterpriseServices
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.EnterpriseServices.dll
+	 role:	DependentManagedLibrary
+	 size:	32.500kB
+
+
+System.IO.Compression.FileSystem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.IO.Compression.FileSystem.dll
+	 role:	DependentManagedLibrary
+	 size:	22.500kB
+
+
+System.Net.Http
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.Net.Http.dll
+	 role:	DependentManagedLibrary
+	 size:	112.000kB
+
+
+System.ServiceModel.Internals
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.ServiceModel.Internals.dll
+	 role:	DependentManagedLibrary
+	 size:	213.000kB
+
+
+System.Transactions
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/System.Transactions.dll
+	 role:	DependentManagedLibrary
+	 size:	32.500kB
+
+
+globalgamemanagers
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/globalgamemanagers
+	 role:	GlobalGameManagers
+	 size:	77.355kB
+
+
+level0
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level0
+	 role:	Scene
+	 size:	16.184kB
+
+
+level1
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level1
+	 role:	Scene
+	 size:	4.434kB
+
+
+level2
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level2
+	 role:	Scene
+	 size:	4.434kB
+
+
+level3
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level3
+	 role:	Scene
+	 size:	7.707kB
+
+
+level4
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level4
+	 role:	Scene
+	 size:	14.180kB
+
+
+globalgamemanagers
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/globalgamemanagers.assets
+	 role:	SharedAssets
+	 size:	136.500kB
+
+
+resources
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/resources.assets
+	 role:	ResourcesFile
+	 size:	484.313kB
+
+
+sharedassets0
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets0.assets
+	 role:	SharedAssets
+	 size:	20.090kB
+
+
+sharedassets1
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets1.assets
+	 role:	SharedAssets
+	 size:	4.024kB
+
+
+sharedassets2
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets2.assets
+	 role:	SharedAssets
+	 size:	4.024kB
+
+
+sharedassets3
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets3.assets
+	 role:	SharedAssets
+	 size:	2.642M
+
+
+sharedassets4
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets4.assets
+	 role:	SharedAssets
+	 size:	76.918kB
+
+
+level3
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/level3.resS
+	 role:	StreamingResourceFile
+	 size:	383.996kB
+
+
+resources.assets
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/resources.assets.resS
+	 role:	StreamingResourceFile
+	 size:	64.000kB
+
+
+sharedassets0.assets
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets0.assets.resS
+	 role:	StreamingResourceFile
+	 size:	1.455M
+
+
+sharedassets3.assets
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets3.assets.resS
+	 role:	StreamingResourceFile
+	 size:	900.000kB
+
+
+sharedassets4.assets
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/sharedassets4.assets.resS
+	 role:	StreamingResourceFile
+	 size:	3.475M
+
+
+unity_builtin_extra
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/data.unity3d/Resources/unity_builtin_extra
+	 role:	BuiltInShaders
+	 size:	541.711kB
+
+
+boot
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/boot.config
+	 role:	BootConfig
+	 size:	62字节
+
+
+unity default resources
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/unity default resources
+	 role:	Unity default resources
+	 size:	6.053M
+
+
+machine
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Managed/mono/4.0/machine.config
+	 role:	Mono 4.0 machine.config
+	 size:	32.859kB
+
+
+LEVEL_MAP_KEY1
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/GameBinary/LEVEL_MAP_KEY1.bin
+	 role:	Streaming assets
+	 size:	906字节
+
+
+MAIL_DATA
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/GameBinary/MAIL_DATA.bin
+	 role:	Streaming assets
+	 size:	6字节
+
+
+ROLE_INFO
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/GameBinary/ROLE_INFO.bin
+	 role:	Streaming assets
+	 size:	188字节
+
+
+TASK_DATA
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/GameBinary/TASK_DATA.bin
+	 role:	Streaming assets
+	 size:	184字节
+
+
+Hashmap
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/Hashmap.json
+	 role:	Streaming assets
+	 size:	21.896kB
+
+
+game
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/game.ab
+	 role:	Streaming assets
+	 size:	118.931kB
+
+
+game.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/game.ab.manifest
+	 role:	Streaming assets
+	 size:	17.114kB
+
+
+library
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/library.ab
+	 role:	Streaming assets
+	 size:	47.241kB
+
+
+library.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/library.ab.manifest
+	 role:	Streaming assets
+	 size:	4.581kB
+
+
+luaconfig
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/luaconfig.ab
+	 role:	Streaming assets
+	 size:	42.710kB
+
+
+luaconfig.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/luaconfig.ab.manifest
+	 role:	Streaming assets
+	 size:	3.458kB
+
+
+network
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/network.ab
+	 role:	Streaming assets
+	 size:	15.913kB
+
+
+network.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/network.ab.manifest
+	 role:	Streaming assets
+	 size:	1.538kB
+
+
+tolua
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/tolua.ab
+	 role:	Streaming assets
+	 size:	84.179kB
+
+
+tolua.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/luascript/tolua.ab.manifest
+	 role:	Streaming assets
+	 size:	2.950kB
+
+
+resfile
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resfile
+	 role:	Streaming assets
+	 size:	5.335kB
+
+
+resfile
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resfile.manifest
+	 role:	Streaming assets
+	 size:	21.882kB
+
+
+item
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/scene/item.ab
+	 role:	Streaming assets
+	 size:	797.026kB
+
+
+item.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/scene/item.ab.manifest
+	 role:	Streaming assets
+	 size:	480字节
+
+
+scene
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/scene/scene.ab
+	 role:	Streaming assets
+	 size:	8.701kB
+
+
+scene.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/scene/scene.ab.manifest
+	 role:	Streaming assets
+	 size:	481字节
+
+
+uicommon
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uicommon.ab
+	 role:	Streaming assets
+	 size:	682.319kB
+
+
+uicommon.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uicommon.ab.manifest
+	 role:	Streaming assets
+	 size:	481字节
+
+
+uihead
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uihead.ab
+	 role:	Streaming assets
+	 size:	198.011kB
+
+
+uihead.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uihead.ab.manifest
+	 role:	Streaming assets
+	 size:	479字节
+
+
+uiicon
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uiicon.ab
+	 role:	Streaming assets
+	 size:	940.753kB
+
+
+uiicon.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uiicon.ab.manifest
+	 role:	Streaming assets
+	 size:	479字节
+
+
+uimeta
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uimeta.ab
+	 role:	Streaming assets
+	 size:	166.453kB
+
+
+uimeta.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uimeta.ab.manifest
+	 role:	Streaming assets
+	 size:	478字节
+
+
+uimonth
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uimonth.ab
+	 role:	Streaming assets
+	 size:	496.331kB
+
+
+uimonth.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/atlas/ui/uimonth.ab.manifest
+	 role:	Streaming assets
+	 size:	480字节
+
+
+hukiry
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/font/hukiry.ab
+	 role:	Streaming assets
+	 size:	23.318kB
+
+
+hukiry.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/font/hukiry.ab.manifest
+	 role:	Streaming assets
+	 size:	497字节
+
+
+effect_matchui_levelwin
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_matchui_levelwin.ab
+	 role:	Streaming assets
+	 size:	20.555kB
+
+
+effect_matchui_levelwin.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_matchui_levelwin.ab.manifest
+	 role:	Streaming assets
+	 size:	718字节
+
+
+effect_match_rotation
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_rotation.ab
+	 role:	Streaming assets
+	 size:	47.424kB
+
+
+effect_match_rotation.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_rotation.ab.manifest
+	 role:	Streaming assets
+	 size:	638字节
+
+
+effect_match_wipe
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_wipe.ab
+	 role:	Streaming assets
+	 size:	89.163kB
+
+
+effect_match_wipe.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_wipe.ab.manifest
+	 role:	Streaming assets
+	 size:	634字节
+
+
+effect_match_wipe_props
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_wipe_props.ab
+	 role:	Streaming assets
+	 size:	30.026kB
+
+
+effect_match_wipe_props.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_match_wipe_props.ab.manifest
+	 role:	Streaming assets
+	 size:	640字节
+
+
+effect_meta_delete
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_meta_delete.ab
+	 role:	Streaming assets
+	 size:	35.325kB
+
+
+effect_meta_delete.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_meta_delete.ab.manifest
+	 role:	Streaming assets
+	 size:	635字节
+
+
+effect_rainbowball_fly
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_rainbowball_fly.ab
+	 role:	Streaming assets
+	 size:	30.994kB
+
+
+effect_rainbowball_fly.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_rainbowball_fly.ab.manifest
+	 role:	Streaming assets
+	 size:	677字节
+
+
+effect_ui_reward
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_ui_reward.ab
+	 role:	Streaming assets
+	 size:	29.213kB
+
+
+effect_ui_reward.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/effect_ui_reward.ab.manifest
+	 role:	Streaming assets
+	 size:	673字节
+
+
+ui_book_open
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_book_open.ab
+	 role:	Streaming assets
+	 size:	34.374kB
+
+
+ui_book_open.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_book_open.ab.manifest
+	 role:	Streaming assets
+	 size:	705字节
+
+
+ui_icon
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_icon.ab
+	 role:	Streaming assets
+	 size:	31.794kB
+
+
+ui_icon.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_icon.ab.manifest
+	 role:	Streaming assets
+	 size:	702字节
+
+
+ui_level_finish
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_level_finish.ab
+	 role:	Streaming assets
+	 size:	74.988kB
+
+
+ui_level_finish.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_level_finish.ab.manifest
+	 role:	Streaming assets
+	 size:	632字节
+
+
+ui_rechargereward
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_rechargereward.ab
+	 role:	Streaming assets
+	 size:	74.062kB
+
+
+ui_rechargereward.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_rechargereward.ab.manifest
+	 role:	Streaming assets
+	 size:	803字节
+
+
+ui_rewarditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_rewarditem.ab
+	 role:	Streaming assets
+	 size:	31.803kB
+
+
+ui_rewarditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_rewarditem.ab.manifest
+	 role:	Streaming assets
+	 size:	706字节
+
+
+ui_yueka
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_yueka.ab
+	 role:	Streaming assets
+	 size:	63.372kB
+
+
+ui_yueka.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_yueka.ab.manifest
+	 role:	Streaming assets
+	 size:	703字节
+
+
+ui_zhouka
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_zhouka.ab
+	 role:	Streaming assets
+	 size:	36.993kB
+
+
+ui_zhouka.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/effect/ui_zhouka.ab.manifest
+	 role:	Streaming assets
+	 size:	704字节
+
+
+explosionitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/explosionitem.ab
+	 role:	Streaming assets
+	 size:	2.360kB
+
+
+explosionitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/explosionitem.ab.manifest
+	 role:	Streaming assets
+	 size:	552字节
+
+
+flyitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/flyitem.ab
+	 role:	Streaming assets
+	 size:	2.400kB
+
+
+flyitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/flyitem.ab.manifest
+	 role:	Streaming assets
+	 size:	546字节
+
+
+frameitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/frameitem.ab
+	 role:	Streaming assets
+	 size:	2.345kB
+
+
+frameitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/frameitem.ab.manifest
+	 role:	Streaming assets
+	 size:	547字节
+
+
+griditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/griditem.ab
+	 role:	Streaming assets
+	 size:	2.787kB
+
+
+griditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/griditem.ab.manifest
+	 role:	Streaming assets
+	 size:	547字节
+
+
+metaitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/metaitem.ab
+	 role:	Streaming assets
+	 size:	2.435kB
+
+
+metaitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/metaitem.ab.manifest
+	 role:	Streaming assets
+	 size:	547字节
+
+
+sceneflyitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/sceneflyitem.ab
+	 role:	Streaming assets
+	 size:	2.651kB
+
+
+sceneflyitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/scene/sceneflyitem.ab.manifest
+	 role:	Streaming assets
+	 size:	629字节
+
+
+chestitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/chestitem.ab
+	 role:	Streaming assets
+	 size:	4.356kB
+
+
+chestitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/chestitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.299kB
+
+
+chestview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/chestview.ab
+	 role:	Streaming assets
+	 size:	4.493kB
+
+
+chestview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/chestview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.379kB
+
+
+drawcarditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/drawcarditem.ab
+	 role:	Streaming assets
+	 size:	38.332kB
+
+
+drawcarditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/drawcarditem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.541kB
+
+
+drawcardview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/drawcardview.ab
+	 role:	Streaming assets
+	 size:	6.843kB
+
+
+drawcardview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/drawcardview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.606kB
+
+
+propsview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/propsview.ab
+	 role:	Streaming assets
+	 size:	6.115kB
+
+
+propsview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/propsview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.468kB
+
+
+rechargefirstview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/rechargefirstview.ab
+	 role:	Streaming assets
+	 size:	5.403kB
+
+
+rechargefirstview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/activityview/rechargefirstview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.387kB
+
+
+viewflyitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/animation/viewflyitem.ab
+	 role:	Streaming assets
+	 size:	2.397kB
+
+
+viewflyitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/animation/viewflyitem.ab.manifest
+	 role:	Streaming assets
+	 size:	794字节
+
+
+challengeitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/challengeitem.ab
+	 role:	Streaming assets
+	 size:	4.367kB
+
+
+challengeitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/challengeitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.325kB
+
+
+chatitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/chatitem.ab
+	 role:	Streaming assets
+	 size:	4.435kB
+
+
+chatitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/chatitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.201kB
+
+
+friendview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/friendview.ab
+	 role:	Streaming assets
+	 size:	6.880kB
+
+
+friendview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/friend/friendview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.641kB
+
+
+giftitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/giftitem.ab
+	 role:	Streaming assets
+	 size:	4.878kB
+
+
+giftitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/giftitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.281kB
+
+
+giftview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/giftview.ab
+	 role:	Streaming assets
+	 size:	3.946kB
+
+
+giftview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/giftview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.273kB
+
+
+rewardgititem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/rewardgititem.ab
+	 role:	Streaming assets
+	 size:	3.019kB
+
+
+rewardgititem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gift/rewardgititem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.010kB
+
+
+gmview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gm/gmview.ab
+	 role:	Streaming assets
+	 size:	5.162kB
+
+
+gmview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gm/gmview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.111kB
+
+
+gmwinview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gm/gmwinview.ab
+	 role:	Streaming assets
+	 size:	40.264kB
+
+
+gmwinview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/gm/gmwinview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.449kB
+
+
+guideview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/guide/guideview.ab
+	 role:	Streaming assets
+	 size:	4.560kB
+
+
+guideview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/guide/guideview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.470kB
+
+
+levelmainview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/level/levelmainview.ab
+	 role:	Streaming assets
+	 size:	45.119kB
+
+
+levelmainview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/level/levelmainview.ab.manifest
+	 role:	Streaming assets
+	 size:	2.209kB
+
+
+targetitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/level/targetitem.ab
+	 role:	Streaming assets
+	 size:	3.123kB
+
+
+targetitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/level/targetitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.106kB
+
+
+levelchallengeview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelchallengeview.ab
+	 role:	Streaming assets
+	 size:	5.840kB
+
+
+levelchallengeview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelchallengeview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.570kB
+
+
+levelfailview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelfailview.ab
+	 role:	Streaming assets
+	 size:	5.387kB
+
+
+levelfailview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelfailview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.388kB
+
+
+levelquitview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelquitview.ab
+	 role:	Streaming assets
+	 size:	4.322kB
+
+
+levelquitview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelquitview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.291kB
+
+
+levelwinview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelwinview.ab
+	 role:	Streaming assets
+	 size:	23.474kB
+
+
+levelwinview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/levelwinview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.608kB
+
+
+propsitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/propsitem.ab
+	 role:	Streaming assets
+	 size:	3.303kB
+
+
+propsitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/leveltip/propsitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.206kB
+
+
+loadingview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/loading/loadingview.ab
+	 role:	Streaming assets
+	 size:	38.909kB
+
+
+loadingview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/loading/loadingview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.406kB
+
+
+mailitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mail/mailitem.ab
+	 role:	Streaming assets
+	 size:	3.904kB
+
+
+mailitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mail/mailitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.192kB
+
+
+mailtipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mail/mailtipview.ab
+	 role:	Streaming assets
+	 size:	4.161kB
+
+
+mailtipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mail/mailtipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.188kB
+
+
+browseview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/browseview.ab
+	 role:	Streaming assets
+	 size:	6.803kB
+
+
+browseview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/browseview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.630kB
+
+
+frienditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/frienditem.ab
+	 role:	Streaming assets
+	 size:	5.025kB
+
+
+frienditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/frienditem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.409kB
+
+
+gameview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/gameview.ab
+	 role:	Streaming assets
+	 size:	25.875kB
+
+
+gameview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/gameview.ab.manifest
+	 role:	Streaming assets
+	 size:	2.760kB
+
+
+headitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/headitem.ab
+	 role:	Streaming assets
+	 size:	2.507kB
+
+
+headitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/headitem.ab.manifest
+	 role:	Streaming assets
+	 size:	886字节
+
+
+lifeview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/lifeview.ab
+	 role:	Streaming assets
+	 size:	5.248kB
+
+
+lifeview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/lifeview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.370kB
+
+
+rankitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/rankitem.ab
+	 role:	Streaming assets
+	 size:	3.949kB
+
+
+rankitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/main/rankitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.192kB
+
+
+lifehelpitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mass/lifehelpitem.ab
+	 role:	Streaming assets
+	 size:	4.946kB
+
+
+lifehelpitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mass/lifehelpitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.324kB
+
+
+masspanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mass/masspanel.ab
+	 role:	Streaming assets
+	 size:	7.807kB
+
+
+masspanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/mass/masspanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.912kB
+
+
+graphiccarditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/graphiccarditem.ab
+	 role:	Streaming assets
+	 size:	4.395kB
+
+
+graphiccarditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/graphiccarditem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.202kB
+
+
+graphicfightitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/graphicfightitem.ab
+	 role:	Streaming assets
+	 size:	4.043kB
+
+
+graphicfightitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/graphicfightitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.203kB
+
+
+selectcarditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/selectcarditem.ab
+	 role:	Streaming assets
+	 size:	3.396kB
+
+
+selectcarditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/selectcarditem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.121kB
+
+
+targeteditoritem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/targeteditoritem.ab
+	 role:	Streaming assets
+	 size:	3.056kB
+
+
+targeteditoritem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/item/targeteditoritem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.026kB
+
+
+metaeditorview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metaeditorview.ab
+	 role:	Streaming assets
+	 size:	13.038kB
+
+
+metaeditorview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metaeditorview.ab.manifest
+	 role:	Streaming assets
+	 size:	2.505kB
+
+
+metahomeview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metahomeview.ab
+	 role:	Streaming assets
+	 size:	4.583kB
+
+
+metahomeview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metahomeview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.105kB
+
+
+metaselectview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metaselectview.ab
+	 role:	Streaming assets
+	 size:	8.206kB
+
+
+metaselectview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/metaselectview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.777kB
+
+
+fightmappanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/fightmappanel.ab
+	 role:	Streaming assets
+	 size:	6.480kB
+
+
+fightmappanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/fightmappanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.557kB
+
+
+mymappanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/mymappanel.ab
+	 role:	Streaming assets
+	 size:	8.986kB
+
+
+mymappanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/mymappanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.642kB
+
+
+playermappanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/playermappanel.ab
+	 role:	Streaming assets
+	 size:	6.051kB
+
+
+playermappanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/playermappanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.210kB
+
+
+quitmappanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/quitmappanel.ab
+	 role:	Streaming assets
+	 size:	5.309kB
+
+
+quitmappanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/quitmappanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.477kB
+
+
+settingmappanel
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/settingmappanel.ab
+	 role:	Streaming assets
+	 size:	7.201kB
+
+
+settingmappanel.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/panel/settingmappanel.ab.manifest
+	 role:	Streaming assets
+	 size:	1.763kB
+
+
+metaenterview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/metaenterview.ab
+	 role:	Streaming assets
+	 size:	4.623kB
+
+
+metaenterview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/metaenterview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.298kB
+
+
+metatipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/metatipview.ab
+	 role:	Streaming assets
+	 size:	4.662kB
+
+
+metatipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/metatipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.288kB
+
+
+mymapcreateview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapcreateview.ab
+	 role:	Streaming assets
+	 size:	13.560kB
+
+
+mymapcreateview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapcreateview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.960kB
+
+
+mymapexpandview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapexpandview.ab
+	 role:	Streaming assets
+	 size:	4.874kB
+
+
+mymapexpandview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapexpandview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.396kB
+
+
+mymapfightview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapfightview.ab
+	 role:	Streaming assets
+	 size:	12.574kB
+
+
+mymapfightview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapfightview.ab.manifest
+	 role:	Streaming assets
+	 size:	2.202kB
+
+
+mymapinfoview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapinfoview.ab
+	 role:	Streaming assets
+	 size:	4.702kB
+
+
+mymapinfoview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapinfoview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.395kB
+
+
+mymapsettingview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapsettingview.ab
+	 role:	Streaming assets
+	 size:	11.514kB
+
+
+mymapsettingview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymapsettingview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.754kB
+
+
+mymaptipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymaptipview.ab
+	 role:	Streaming assets
+	 size:	4.923kB
+
+
+mymaptipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/tip/mymaptipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.482kB
+
+
+metafailview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/winfail/metafailview.ab
+	 role:	Streaming assets
+	 size:	4.396kB
+
+
+metafailview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/winfail/metafailview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.212kB
+
+
+metawinview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/winfail/metawinview.ab
+	 role:	Streaming assets
+	 size:	4.379kB
+
+
+metawinview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/metauniverse/winfail/metawinview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.388kB
+
+
+passitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passitem.ab
+	 role:	Streaming assets
+	 size:	36.591kB
+
+
+passitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.735kB
+
+
+passpayview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passpayview.ab
+	 role:	Streaming assets
+	 size:	8.411kB
+
+
+passpayview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passpayview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.648kB
+
+
+passview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passview.ab
+	 role:	Streaming assets
+	 size:	9.357kB
+
+
+passview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/pass/passview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.815kB
+
+
+buytipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/buytipview.ab
+	 role:	Streaming assets
+	 size:	3.314kB
+
+
+buytipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/buytipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.102kB
+
+
+commontipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/commontipview.ab
+	 role:	Streaming assets
+	 size:	4.644kB
+
+
+commontipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/commontipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.283kB
+
+
+promptboxview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/promptboxview.ab
+	 role:	Streaming assets
+	 size:	38.749kB
+
+
+promptboxview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/promptboxview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.137kB
+
+
+propstipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/propstipview.ab
+	 role:	Streaming assets
+	 size:	4.689kB
+
+
+propstipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/propstipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.289kB
+
+
+servertipview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/servertipview.ab
+	 role:	Streaming assets
+	 size:	3.498kB
+
+
+servertipview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/promptbox/servertipview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.193kB
+
+
+feedfaceview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/feedfaceview.ab
+	 role:	Streaming assets
+	 size:	12.873kB
+
+
+feedfaceview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/feedfaceview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.999kB
+
+
+lanageview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/lanageview.ab
+	 role:	Streaming assets
+	 size:	7.312kB
+
+
+lanageview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/lanageview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.812kB
+
+
+lanbuttonitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/lanbuttonitem.ab
+	 role:	Streaming assets
+	 size:	2.974kB
+
+
+lanbuttonitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/lanbuttonitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.014kB
+
+
+roleview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/roleview.ab
+	 role:	Streaming assets
+	 size:	6.075kB
+
+
+roleview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/roleview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.560kB
+
+
+settingview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/settingview.ab
+	 role:	Streaming assets
+	 size:	10.551kB
+
+
+settingview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/settingview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.828kB
+
+
+userview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/userview.ab
+	 role:	Streaming assets
+	 size:	4.182kB
+
+
+userview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/setting/userview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.188kB
+
+
+rechargeview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/rechargeview.ab
+	 role:	Streaming assets
+	 size:	7.445kB
+
+
+rechargeview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/rechargeview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.721kB
+
+
+rewarditem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/rewarditem.ab
+	 role:	Streaming assets
+	 size:	3.026kB
+
+
+rewarditem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/rewarditem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.008kB
+
+
+shopcoinitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/shopcoinitem.ab
+	 role:	Streaming assets
+	 size:	3.505kB
+
+
+shopcoinitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/shopcoinitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.108kB
+
+
+shopitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/shopitem.ab
+	 role:	Streaming assets
+	 size:	4.560kB
+
+
+shopitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/shop/shopitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.290kB
+
+
+signitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/sign/signitem.ab
+	 role:	Streaming assets
+	 size:	31.905kB
+
+
+signitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/sign/signitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.358kB
+
+
+signmonthview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/sign/signmonthview.ab
+	 role:	Streaming assets
+	 size:	33.592kB
+
+
+signmonthview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/sign/signmonthview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.629kB
+
+
+taskitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/task/taskitem.ab
+	 role:	Streaming assets
+	 size:	3.823kB
+
+
+taskitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/task/taskitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.200kB
+
+
+taskview
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/task/taskview.ab
+	 role:	Streaming assets
+	 size:	9.081kB
+
+
+taskview.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/task/taskview.ab.manifest
+	 role:	Streaming assets
+	 size:	1.912kB
+
+
+tipitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/tip/tipitem.ab
+	 role:	Streaming assets
+	 size:	3.491kB
+
+
+tipitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/prefab/ui/tip/tipitem.ab.manifest
+	 role:	Streaming assets
+	 size:	1.080kB
+
+
+gridmesh
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/custom/gridmesh.ab
+	 role:	Streaming assets
+	 size:	6.061kB
+
+
+gridmesh.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/custom/gridmesh.ab.manifest
+	 role:	Streaming assets
+	 size:	394字节
+
+
+normalmesh
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/custom/normalmesh.ab
+	 role:	Streaming assets
+	 size:	6.326kB
+
+
+normalmesh.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/custom/normalmesh.ab.manifest
+	 role:	Streaming assets
+	 size:	396字节
+
+
+diffusebump
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/diffusebump.ab
+	 role:	Streaming assets
+	 size:	12.686kB
+
+
+diffusebump.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/diffusebump.ab.manifest
+	 role:	Streaming assets
+	 size:	391字节
+
+
+indicator
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/indicator.ab
+	 role:	Streaming assets
+	 size:	6.232kB
+
+
+indicator.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/indicator.ab.manifest
+	 role:	Streaming assets
+	 size:	389字节
+
+
+maskicon
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/maskicon.ab
+	 role:	Streaming assets
+	 size:	4.808kB
+
+
+maskicon.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/maskicon.ab.manifest
+	 role:	Streaming assets
+	 size:	388字节
+
+
+myshadergray
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/myshadergray.ab
+	 role:	Streaming assets
+	 size:	6.019kB
+
+
+myshadergray.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/myshadergray.ab.manifest
+	 role:	Streaming assets
+	 size:	392字节
+
+
+particelstencle
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/particelstencle.ab
+	 role:	Streaming assets
+	 size:	5.652kB
+
+
+particelstencle.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/particelstencle.ab.manifest
+	 role:	Streaming assets
+	 size:	395字节
+
+
+particlemask
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/particlemask.ab
+	 role:	Streaming assets
+	 size:	6.554kB
+
+
+particlemask.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/particlemask.ab.manifest
+	 role:	Streaming assets
+	 size:	391字节
+
+
+rapidblureffect
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/rapidblureffect.ab
+	 role:	Streaming assets
+	 size:	6.329kB
+
+
+rapidblureffect.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/rapidblureffect.ab.manifest
+	 role:	Streaming assets
+	 size:	395字节
+
+
+vignette
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/vignette.ab
+	 role:	Streaming assets
+	 size:	6.274kB
+
+
+vignette.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/shader/vignette.ab.manifest
+	 role:	Streaming assets
+	 size:	391字节
+
+
+music_level_1
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_1.ab
+	 role:	Streaming assets
+	 size:	1.238M
+
+
+music_level_1.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_1.ab.manifest
+	 role:	Streaming assets
+	 size:	397字节
+
+
+music_level_2
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_2.ab
+	 role:	Streaming assets
+	 size:	856.859kB
+
+
+music_level_2.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_2.ab.manifest
+	 role:	Streaming assets
+	 size:	397字节
+
+
+music_level_3
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_3.ab
+	 role:	Streaming assets
+	 size:	682.702kB
+
+
+music_level_3.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_level_3.ab.manifest
+	 role:	Streaming assets
+	 size:	397字节
+
+
+music_meta
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_meta.ab
+	 role:	Streaming assets
+	 size:	857.379kB
+
+
+music_meta.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/music/music_meta.ab.manifest
+	 role:	Streaming assets
+	 size:	394字节
+
+
+bubble
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/bubble.ab
+	 role:	Streaming assets
+	 size:	5.300kB
+
+
+bubble.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/bubble.ab.manifest
+	 role:	Streaming assets
+	 size:	390字节
+
+
+button_click
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/button_click.ab
+	 role:	Streaming assets
+	 size:	8.027kB
+
+
+button_click.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/button_click.ab.manifest
+	 role:	Streaming assets
+	 size:	396字节
+
+
+buy_glod
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/buy_glod.ab
+	 role:	Streaming assets
+	 size:	26.320kB
+
+
+buy_glod.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/buy_glod.ab.manifest
+	 role:	Streaming assets
+	 size:	392字节
+
+
+glass_poshui
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/glass_poshui.ab
+	 role:	Streaming assets
+	 size:	31.425kB
+
+
+glass_poshui.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/glass_poshui.ab.manifest
+	 role:	Streaming assets
+	 size:	396字节
+
+
+item_bomb
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_bomb.ab
+	 role:	Streaming assets
+	 size:	12.178kB
+
+
+item_bomb.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_bomb.ab.manifest
+	 role:	Streaming assets
+	 size:	392字节
+
+
+item_move
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_move.ab
+	 role:	Streaming assets
+	 size:	10.769kB
+
+
+item_move.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_move.ab.manifest
+	 role:	Streaming assets
+	 size:	393字节
+
+
+item_poshui
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_poshui.ab
+	 role:	Streaming assets
+	 size:	11.554kB
+
+
+item_poshui.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_poshui.ab.manifest
+	 role:	Streaming assets
+	 size:	395字节
+
+
+item_rocket
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_rocket.ab
+	 role:	Streaming assets
+	 size:	11.190kB
+
+
+item_rocket.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_rocket.ab.manifest
+	 role:	Streaming assets
+	 size:	395字节
+
+
+item_zhuqingting
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_zhuqingting.ab
+	 role:	Streaming assets
+	 size:	15.918kB
+
+
+item_zhuqingting.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/item_zhuqingting.ab.manifest
+	 role:	Streaming assets
+	 size:	400字节
+
+
+level_fail
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/level_fail.ab
+	 role:	Streaming assets
+	 size:	51.658kB
+
+
+level_fail.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/level_fail.ab.manifest
+	 role:	Streaming assets
+	 size:	394字节
+
+
+level_win
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/level_win.ab
+	 role:	Streaming assets
+	 size:	25.989kB
+
+
+level_win.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/level_win.ab.manifest
+	 role:	Streaming assets
+	 size:	393字节
+
+
+mail_card
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/mail_card.ab
+	 role:	Streaming assets
+	 size:	12.646kB
+
+
+mail_card.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/mail_card.ab.manifest
+	 role:	Streaming assets
+	 size:	392字节
+
+
+merge_newitem
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/merge_newitem.ab
+	 role:	Streaming assets
+	 size:	6.104kB
+
+
+merge_newitem.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/merge_newitem.ab.manifest
+	 role:	Streaming assets
+	 size:	397字节
+
+
+obstacle_poshui
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/obstacle_poshui.ab
+	 role:	Streaming assets
+	 size:	12.254kB
+
+
+obstacle_poshui.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/obstacle_poshui.ab.manifest
+	 role:	Streaming assets
+	 size:	399字节
+
+
+page_click
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/page_click.ab
+	 role:	Streaming assets
+	 size:	2.892kB
+
+
+page_click.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/page_click.ab.manifest
+	 role:	Streaming assets
+	 size:	394字节
+
+
+pay_reward
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/pay_reward.ab
+	 role:	Streaming assets
+	 size:	41.994kB
+
+
+pay_reward.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/pay_reward.ab.manifest
+	 role:	Streaming assets
+	 size:	394字节
+
+
+sound_gold
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/sound_gold.ab
+	 role:	Streaming assets
+	 size:	14.519kB
+
+
+sound_gold.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/sound_gold.ab.manifest
+	 role:	Streaming assets
+	 size:	393字节
+
+
+use_props
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/use_props.ab
+	 role:	Streaming assets
+	 size:	3.288kB
+
+
+use_props.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/sound/sound/use_props.ab.manifest
+	 role:	Streaming assets
+	 size:	393字节
+
+
+baseboard
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/baseboard.ab
+	 role:	Streaming assets
+	 size:	2.844kB
+
+
+baseboard.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/baseboard.ab.manifest
+	 role:	Streaming assets
+	 size:	427字节
+
+
+bg01
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/bg01.ab
+	 role:	Streaming assets
+	 size:	369.231kB
+
+
+bg01.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/bg01.ab.manifest
+	 role:	Streaming assets
+	 size:	423字节
+
+
+bg02
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/bg02.ab
+	 role:	Streaming assets
+	 size:	435.450kB
+
+
+bg02.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/bg02.ab.manifest
+	 role:	Streaming assets
+	 size:	423字节
+
+
+loadingbg
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/loadingbg.ab
+	 role:	Streaming assets
+	 size:	779.324kB
+
+
+loadingbg.ab
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/resfile/resourcesex/texture/loadingbg.ab.manifest
+	 role:	Streaming assets
+	 size:	389字节
+
+
+UnityServicesProjectConfiguration
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/UnityServicesProjectConfiguration.json
+	 role:	Streaming assets
+	 size:	185字节
+
+
+version
+	 path:	D:/work/Game/Client/Project_Silder/Temp/StagingArea/Data/Raw/version.json
+	 role:	Streaming assets
+	 size:	190字节
+
+
+libiPhone-lib
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/libiPhone-lib.a
+	 role:	Unity Player static library
+	 size:	585.291M
+
+
+libil2cpp
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/libil2cpp.a
+	 role:	IL2CPP static library
+	 size:	113.340M
+
+
+UnityEarlyTransactionObserver
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/com.unity.purchasing/Plugins/UnityPurchasing/iOS/UnityEarlyTransactionObserver.mm
+	 role:	Plugin
+	 size:	2.683kB
+
+
+libtolua
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/libtolua.a
+	 role:	Plugin
+	 size:	3.366M
+
+
+NSUserDefaults
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/com.unity.services.core/Runtime/Device/UserIdProviders/NSUserDefaults.mm
+	 role:	Plugin
+	 size:	940字节
+
+
+AppGameUtil
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/AppGameUtil.m
+	 role:	Plugin
+	 size:	3.085kB
+
+
+SJKGameCenter
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/SJKGameCenter.mm
+	 role:	Plugin
+	 size:	5.665kB
+
+
+UnityEarlyTransactionObserver
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/com.unity.purchasing/Plugins/UnityPurchasing/iOS/UnityEarlyTransactionObserver.h
+	 role:	Plugin
+	 size:	655字节
+
+
+SJKGameOC
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/SJKGameOC.h
+	 role:	Plugin
+	 size:	2.575kB
+
+
+SJKGameCenter
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/SJKGameCenter.h
+	 role:	Plugin
+	 size:	538字节
+
+
+UnityPurchasing
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/com.unity.purchasing/Plugins/UnityPurchasing/iOS/UnityPurchasing.m
+	 role:	Plugin
+	 size:	40.859kB
+
+
+SJKGameOC
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/Plugins/iOS/SJKGameOC.mm
+	 role:	Plugin
+	 size:	3.095kB
+
+
+UnityPurchasing
+	 path:	D:/work/Game/Client/Project_Silder/IOS/2024_08_12_14_19_Debug_1.2.2/Libraries/com.unity.purchasing/Plugins/UnityPurchasing/iOS/UnityPurchasing.h
+	 role:	Plugin
+	 size:	1.749kB
+
+
+
+----------------------------------------------------------------------------
+部署顺序：
+	 name:	Build player
+	 duration:	00:00:00
+	 depth:	0
+	 messages:	
+		 type:	Warning
+		 content:	PostprocessBuildListener must be instantiated using the ScriptableObject.CreateInstance method instead of new PostprocessBuildListener.
+		 type:	Warning
+		 content:	[ServicesCore]: To use Unity's dashboard services, you need to link your Unity project to a project ID. To do this, go to Project Settings to select your organization, select your project and then link a project ID. You also need to make sure your organization has access to the required products. Visit https://dashboard.unity3d.com to sign up.
+		 type:	Warning
+		 content:	Game scripts or other custom code contains OnMouse_ event handlers. Presence of such handlers might impact performance on handheld devices.
+		 type:	Warning
+		 content:	PlayerSettings.applicationIdentifier only changes the identifier for the currently active platform. Please use SetApplicationIdentifier to set it for any platform
+		 type:	Warning
+		 content:	PlayerSettings.applicationIdentifier only changes the identifier for the currently active platform. Please use SetApplicationIdentifier to set it for any platform
+		 type:	Warning
+		 content:	PlayerSettings.applicationIdentifier only changes the identifier for the currently active platform. Please use SetApplicationIdentifier to set it for any platform
+		 type:	Warning
+		 content:	PlayerSettings.applicationIdentifier only changes the identifier for the currently active platform. Please use SetApplicationIdentifier to set it for any platform
+
+
+	 name:	Compile scripts
+	 duration:	00:00:02.8158637
+	 depth:	1
+	 messages:	
+		 type:	Warning
+		 content:	Assets\Script\Utils\Timer\HukiryTimeUtil.cs(161,22): warning CS0618: 'TimeZone' is obsolete: 'System.TimeZone has been deprecated.  Please investigate the use of System.TimeZoneInfo instead.'
+		 type:	Warning
+		 content:	Assets\Script\Utils\Timer\HukiryTimeUtil.cs(167,22): warning CS0618: 'TimeZone' is obsolete: 'System.TimeZone has been deprecated.  Please investigate the use of System.TimeZoneInfo instead.'
+		 type:	Warning
+		 content:	Assets\Unity-Logs-Viewer-master\Reporter\Reporter.cs(97,30): warning CS0168: The variable 'e' is declared but never used
+		 type:	Warning
+		 content:	Assets\Unity-Logs-Viewer-master\Reporter\Reporter.cs(2027,3): warning CS0618: 'WWW' is obsolete: 'Use UnityWebRequest, a fully featured replacement which is more efficient and has additional features'
+		 type:	Warning
+		 content:	Assets\Unity-Logs-Viewer-master\Reporter\Reporter.cs(2027,17): warning CS0618: 'WWW' is obsolete: 'Use UnityWebRequest, a fully featured replacement which is more efficient and has additional features'
+		 type:	Warning
+		 content:	Assets\UGUIExtend\Scripts\Scroll\CenterOnChildDoTween.cs(75,15): warning CS0414: The field 'CenterOnChildDoTween.enableState' is assigned but its value is never used
+		 type:	Warning
+		 content:	Assets\Script\Game\Fps.cs(11,17): warning CS0414: The field 'Fps.androidMemory' is assigned but its value is never used
+		 type:	Warning
+		 content:	Assets\Lua\ToLua\Core\LuaStatePtr.cs(13,16): warning CS0414: The field 'LuaStatePtr.jit' is assigned but its value is never used
+		 type:	Warning
+		 content:	Assets\Plugins\LitJson\JsonWriter.cs(387,21): warning CS3021: 'JsonWriter.Write(ulong)' does not need a CLSCompliant attribute because the assembly does not have a CLSCompliant attribute
+		 type:	Warning
+		 content:	Assets\UGUIExtend\UIParticleImage\Runtime\ParticleImage.cs(987,14): warning CS0114: 'ParticleImage.Awake()' hides inherited member 'UIBehaviour.Awake()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+		 type:	Warning
+		 content:	Assets\UGUIExtend\UIParticleImage\Runtime\ParticleImage.cs(1001,21): warning CS0114: 'ParticleImage.OnEnable()' hides inherited member 'MaskableGraphic.OnEnable()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+		 type:	Warning
+		 content:	Assets\UGUIExtend\UIParticleImage\Runtime\ParticleImage.cs(1084,14): warning CS0114: 'ParticleImage.OnTransformParentChanged()' hides inherited member 'MaskableGraphic.OnTransformParentChanged()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+		 type:	Warning
+		 content:	Assets\UGUIExtend\UIParticleImage\Runtime\ParticleImage.cs(1637,25): warning CS0114: 'ParticleImage.material' hides inherited member 'Graphic.material'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.
+
+
+	 name:	Prepare assets for target platform
+	 duration:	00:00:00.0933219
+	 depth:	1
+	 messages:	
+
+
+	 name:	Building scenes
+	 duration:	00:00:01.8024582
+	 depth:	1
+	 messages:	
+
+
+	 name:	Building scene Assets/Scenes/Game.unity
+	 duration:	00:00:00.3728259
+	 depth:	2
+	 messages:	
+
+
+	 name:	Building scene Assets/Scenes/HomeCity.unity
+	 duration:	00:00:00.3457419
+	 depth:	2
+	 messages:	
+
+
+	 name:	Building scene Assets/Scenes/ViewCity.unity
+	 duration:	00:00:00.3495784
+	 depth:	2
+	 messages:	
+
+
+	 name:	Building scene Assets/Scenes/MetaCity.unity
+	 duration:	00:00:00.3798871
+	 depth:	2
+	 messages:	
+
+
+	 name:	Building scene Assets/Scenes/LevelCity.unity
+	 duration:	00:00:00.3526767
+	 depth:	2
+	 messages:	
+
+
+	 name:	Build GlobalGameManagers file
+	 duration:	00:00:10.9571600
+	 depth:	1
+	 messages:	
+
+
+	 name:	Writing asset files
+	 duration:	00:00:00.6698034
+	 depth:	1
+	 messages:	
+
+
+	 name:	Packaging assets - globalgamemanagers.assets
+	 duration:	00:00:00.0089642
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - resources.assets
+	 duration:	00:00:00.6207525
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - sharedassets0.assets
+	 duration:	00:00:00.0049078
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - sharedassets1.assets
+	 duration:	00:00:00.0019164
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - sharedassets2.assets
+	 duration:	00:00:00.0017445
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - sharedassets3.assets
+	 duration:	00:00:00.0122626
+	 depth:	2
+	 messages:	
+
+
+	 name:	Packaging assets - sharedassets4.assets
+	 duration:	00:00:00.0075967
+	 depth:	2
+	 messages:	
+
+
+	 name:	Creating compressed player package
+	 duration:	00:00:00.0385530
+	 depth:	1
+	 messages:	
+
+
+	 name:	Postprocess built player
+	 duration:	00:00:00
+	 depth:	1
+	 messages:	
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+		 type:	Warning
+		 content:	Compressed texture ICON is used as icon. This might compromise visual quality of the final image. Uncompressed format might be considered as better import option.
+
+
+	 name:	Initializing
+	 duration:	00:00:00
+	 depth:	2
+	 messages:	
+
+
+	 name:	Collecting assembly references
+	 duration:	00:00:00
+	 depth:	3
+	 messages:	
+
+
+	 name:	Cross-compiling assemblies
+	 duration:	00:00:00
+	 depth:	4
+	 messages:	
+
+
+	 name:	Copying streaming assets
+	 duration:	00:00:00
+	 depth:	5
+	 messages:	
+
+
+	 name:	Cleaning up IL2CPP files
+	 duration:	00:00:00
+	 depth:	6
+	 messages:	
+
+
+	 name:	Processing plugins
+	 duration:	00:00:00
+	 depth:	7
+	 messages:	
+
+
+	 name:	Adding resources
+	 duration:	00:00:00
+	 depth:	8
+	 messages:	
+
+
+	 name:	Creating Xcode project
+	 duration:	00:00:00
+	 depth:	9
+	 messages:	
+
+
+	 name:	Updating install location
+	 duration:	00:00:00
+	 depth:	10
+	 messages:	
+
+

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Decryption_river
+  m_Shader: {fileID: 4800000, guid: bd14647a80f8d8946b27b77b06f56784, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: f1ac64697c3c8e14ebfad96928526e69, type: 3}
+        m_Scale: {x: 1, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: 799508636329bbf4faf51f7c208006e4, type: 3}
+        m_Scale: {x: 0.02, y: 0.11}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Opacity: 0.33
+    - _ReflectPow: 4.23
+    - _ShallowOp: 0.36
+    - _Shininess: 3
+    - _reflectPow: 0.2
+    m_Colors:
+    - _DeepCol: {r: 1, g: 1, b: 1, a: 1}
+    - _LightDir: {r: 6.1, g: 11.69, b: 1.47, a: 0}
+    - _ShallowCol: {r: 0.5801887, g: 0.92399967, b: 1, a: 0.85882354}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterCol1: {r: 0.15999997, g: 0.5, b: 0.69, a: 1}
+    - _WaterCol2: {r: 0.11999995, g: 0.24999997, b: 0.31999996, a: 1}
+    - _WaveSpeed: {r: 0, g: -0.1, b: 0, a: 0.2}

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3490552727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef3c162d779fcc4482558a787bcec8b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/mail_card.wav
+Dependencies: []

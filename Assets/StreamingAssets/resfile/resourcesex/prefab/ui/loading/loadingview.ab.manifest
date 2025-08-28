@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2150374019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9500355672b53c4d58ae48e3b6539579
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcad577fc68bc740bcb95ed797ea4702
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 259f2594bee5f8b40aeecd0611995728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059314a4cb2c5d4caac4aae7ca42601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f41417a72484e848bdccbb9ef2b1216, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/UI/Loading/LoadingView.prefab
+Dependencies:
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/texture/loadingbg.ab

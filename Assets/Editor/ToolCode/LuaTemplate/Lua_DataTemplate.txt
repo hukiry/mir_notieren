@@ -1,0 +1,37 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}DataMgr
+local {#class#}DataMgr = Class()
+
+function {#class#}DataMgr:ctor()
+    ---初始化属性
+end
+
+--清理数据
+function {#class#}DataMgr:InitData()
+	---@type table<number, {#class#}Info>
+    self.infoList = {}
+end
+
+function {#class#}DataMgr:SyncServerData(msg)
+
+end
+
+---@param levelId number
+---@return {#class#}Info
+function {#class#}DataMgr:Get{#class#}Info(levelId)
+    return self.infoList[levelId]
+end
+
+---@return table<number, {#class#}Info>
+function {#class#}DataMgr:Get{#class#}Array()
+    local temp = table.toArray(self.infoList)
+    table.sort(temp, function(a, b) return a.id < b.id end)
+    return temp
+end
+
+return {#class#}DataMgr

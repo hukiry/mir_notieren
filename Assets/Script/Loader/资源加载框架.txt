@@ -1,0 +1,39 @@
+﻿
+资源插件加载如下：
+
+ResourcesLoader 
+
+AssetsLoaderMgr  加载管理器
+	IBaseLoader 加载器接口
+	EditorLoader  编辑加载器	   -----------| 
+										  |_________
+	AssetBundleLoader  ab资源加载器 -------|        |
+												   | 
+												   |
+								并行分支			   |
+								-------------------|
+								|			|
+								|			|____ AssetBundleCache  ab文件缓存AssetBundleHolder信息，统计缓存数据
+								|
+								|----AssetBundleObject 记录ab文件信息,加载和释放 -----|
+								|----BaseRefObject 析构类，用于释放类				    |______	分两种加载方式
+																					|
+															-----------------------------
+															LoaderAsyncAsset 异步加载---- 异步请求中，分本地热更新和远程
+																	ABAsyncRequest 本地资源加载
+																	ABHttpRequest  web加载
+															LoaderLocalAsset 同步加载
+
+
+
+AssetBundleList ab路径清单管理：AssetBundleLoader中使用
+
+
+使用如下：
+	1，游戏插件中 开启LoadLocalManifestMap 游戏更新资源后 或 者启动时加载本地文件清单
+	2，AssetBundleList 注册log方法
+	3，AssetsLoaderMgr 调用
+	4，AssetBundleConifg 资源目录配置查看
+
+编辑器下测试，需要将打包好的资源清单文件移入到 StreamingAssets 文件夹下：
+manifestmap

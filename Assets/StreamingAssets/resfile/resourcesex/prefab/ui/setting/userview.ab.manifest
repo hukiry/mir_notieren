@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1245590901
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a115dde55bd053b0eecb8ace85f594dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d6411b7d67ceac58db58e0176aed2194
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059314a4cb2c5d4caac4aae7ca42601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/UI/Setting/UserView.prefab
+Dependencies:
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uicommon.ab

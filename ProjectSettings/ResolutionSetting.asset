@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c10253e79c53543aadf4d5688227b0, type: 3}
+  m_Name: ResolutionSetting
+  m_EditorClassIdentifier: 
+  gameViewSizeGroupType: 2
+  m_Custom:
+  - aspectRatio: 0.74626863
+    width: 100
+    height: 134
+    baseText: 1.34
+    sizeType: AspectRatio
+    displayText: 1.34
+    index: 0
+  - aspectRatio: 0.6993007
+    width: 100
+    height: 143
+    baseText: 1.43
+    sizeType: AspectRatio
+    displayText: 1.43
+    index: 0
+  - aspectRatio: 0.6944444
+    width: 100
+    height: 144
+    baseText: 1.44
+    sizeType: AspectRatio
+    displayText: 1.44
+    index: 0
+  - aspectRatio: 0.6896552
+    width: 100
+    height: 145
+    baseText: 1.45
+    sizeType: AspectRatio
+    displayText: 1.45
+    index: 0
+  - aspectRatio: 0.65789473
+    width: 100
+    height: 152
+    baseText: 1.52
+    sizeType: AspectRatio
+    displayText: 1.52
+    index: 0
+  - aspectRatio: 0
+    width: 1280
+    height: 720
+    baseText: "\u901A\u7528"
+    sizeType: 
+    displayText: 
+    index: 0

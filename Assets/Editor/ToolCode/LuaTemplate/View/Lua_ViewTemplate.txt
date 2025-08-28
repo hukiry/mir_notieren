@@ -1,0 +1,67 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}View:UIWindowBase
+local {#class#}View = Class(UIWindowBase)
+
+function {#class#}View:ctor()
+	---@type {#class#}Control
+	self.ViewCtrl = nil
+end
+
+---初始属性字段
+function {#class#}View:Awake()
+	self.prefabName = "{#class#}"
+	self.prefabDirName = "{#dirName#}"
+	---@type boolean
+	self.isEnableTimer = false
+	---@type number
+	self.delaySecond = 1
+	---@type number
+	self.loopCount = 0
+end
+
+---初始界面:注册按钮事件等
+function {#class#}View:Start()
+	
+end
+
+---启动计时器后，调用此方法
+function {#class#}View:OnTimer()
+
+end
+
+---事件派发
+function {#class#}View:OnDispatch(...)
+
+end
+
+---显示窗口:初次打开
+function {#class#}View:OnEnable(...)
+	
+end
+
+---显示中重复打开
+function {#class#}View:OnRefresh()
+
+end
+
+---切换语言
+function {#class#}View:OnChangeLanguage()
+
+end
+
+---隐藏窗口
+function {#class#}View:OnDisable()
+	
+end
+
+---消耗释放资源
+function {#class#}View:OnDestroy()
+	self.ViewCtrl:OnDestroy()
+end
+
+return {#class#}View

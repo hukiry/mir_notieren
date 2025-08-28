@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 391627753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 366b78de862a6994250346b1902587d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d2da78e2f7f3c6459df645e3951f1d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcc3c943d01d2544f8902bc2f2312e9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 259f2594bee5f8b40aeecd0611995728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059314a4cb2c5d4caac4aae7ca42601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e119a72f93a094548ba5084da9ff2698, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/UI/Metauniverse/Tip/MyMapFightView.prefab
+Dependencies:
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uicommon.ab
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uihead.ab
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uiicon.ab
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uimeta.ab

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85cbfc0ee4729d24996a55d6112c4a63, type: 3}
+  m_Name: PackageSpriteAtlasMangerAsset
+  m_EditorClassIdentifier: 
+  packageAtlasType: 1
+  inputSpriteAtlas: {fileID: 4343727234628468602, guid: 565b2f429ae49c74ea6efdc7747844e0,
+    type: 2}
+  objList:
+  - {fileID: 102900000, guid: e847d8188f7bb7a4ab055fcd52587f8a, type: 3}
+  dirPath: 
+  creatSpriteAtlasDirPath: 
+  uvDataDirPath: 

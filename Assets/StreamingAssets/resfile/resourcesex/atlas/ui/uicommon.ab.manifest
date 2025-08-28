@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1957992878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ef7d90af49bb57c9487503eddc4033f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84beaf145ff65b902df932cdcbb097c7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e10ba05660cb76046a87313f58238319, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Atlas/UI/UICommon.spriteatlas
+- Assets/ResourcesEx/Atlas/UI/UICommon.png
+- Assets/ResourcesEx/Atlas/UI/UICommon.asset
+Dependencies: []

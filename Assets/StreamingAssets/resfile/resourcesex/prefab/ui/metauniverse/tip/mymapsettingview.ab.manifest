@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 3833779030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ca211d5c03e2ed6109010c98df5d98d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b466732ed4793e5d859f6dffe2b8c58
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 259f2594bee5f8b40aeecd0611995728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059314a4cb2c5d4caac4aae7ca42601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c554fceec5914f543af17e088e106883, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e119a72f93a094548ba5084da9ff2698, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/UI/Metauniverse/Tip/MyMapSettingView.prefab
+Dependencies:
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/scene/item.ab
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uicommon.ab
+- D:/work/Game/Client/Project_Mode/Assets/StreamingAssets/resfile/resourcesex/atlas/ui/uimeta.ab

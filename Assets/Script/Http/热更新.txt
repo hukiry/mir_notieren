@@ -1,0 +1,8 @@
+
+热更新插件
+1，目录：HttpDownload	热更新类
+		HttpQueueHelper.cs 下载器
+2，目录：HttpProtobuf	http网络
+3，HttpJson.cs			远程请求json
+4，HttpPost.cs			远程请求 数据拼接
+5，LocalHttpRequest.cs  本地请求

@@ -1,0 +1,23 @@
+---
+--- {#class#}
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}Info
+local {#class#}Info = Class()
+
+function {#class#}Info:ctor(id)
+    ---表id
+    ---@type number
+    self.id = id
+
+end
+
+
+---@return Table{#class#}Item
+function {#class#}Info:GetCfg()
+   return SingleConfig.{#class#}():GetKey(self.id)
+end
+
+return {#class#}Info

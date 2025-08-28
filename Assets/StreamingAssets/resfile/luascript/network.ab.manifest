@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3565724945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4897edfaba138adf8c4a22a3b70e09e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luascript/Network/Proto/protocal.bytes
+- Assets/luascript/Network/Message/MessageRequest.bytes
+- Assets/luascript/Network/Http/HttpPostForm.bytes
+- Assets/luascript/Network/Proto/error_19_pb.bytes
+- Assets/luascript/Network/Proto/mail_11_pb.bytes
+- Assets/luascript/Network/Http/HttpTexture2D.bytes
+- Assets/luascript/Network/Http/HttpGet.bytes
+- Assets/luascript/Network/Proto/friend_15_pb.bytes
+- Assets/luascript/Network/Http/HttpPostJson.bytes
+- Assets/luascript/Network/Socket/NetSocket.bytes
+- Assets/luascript/Network/Socket/ReconnectionMgr.bytes
+- Assets/luascript/Network/Socket/HeartBeatMgr.bytes
+- Assets/luascript/Network/Message/MessageRule.bytes
+- Assets/luascript/Network/Socket/protobuf.bytes
+- Assets/luascript/Network/Message/MessageResponse.bytes
+- Assets/luascript/Network/Proto/login_10_pb.bytes
+- Assets/luascript/Network/Http/HttpBase.bytes
+- Assets/luascript/Network/Proto/shop_14_pb.bytes
+- Assets/luascript/Network/Http/HttpRule.bytes
+- Assets/luascript/Network/Proto/meta_16_pb.bytes
+- Assets/luascript/Network/Http/HttpPostBinary.bytes
+- Assets/luascript/Network/Proto/common_13_pb.bytes
+- Assets/luascript/Network/Proto/activity_12_pb.bytes
+- Assets/luascript/Network/Http/HttpManager.bytes
+Dependencies: []

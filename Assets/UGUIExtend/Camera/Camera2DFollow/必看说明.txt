@@ -1,0 +1,27 @@
+
+v1.1.0
+1，支持地图缩放自定义参数化:默认关闭缩放
+2，支持跟随相机地图边界缩放，不超出边界
+
+
+
+
+v1.0.0
+
+地图内上下左右任意移动：脚本内有注释
+
+场景：工程内 Map2D
+主脚本：FollowCameraCtl
+测试脚本：Map_Test
+
+
+场景主要部分
+	worldMap = 场景地图节点
+		role = 角色控制：挂载FollowCameraCtl， Map_Test
+			WorldFollowUI = 场景UI节点
+		Camera = 世界相机控制
+		backgroudItem = 背景图
+
+
+
+	UI = 用来区分ui相机

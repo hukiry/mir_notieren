@@ -1,0 +1,25 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}ToClient
+local {#class#}ToClient = {}
+
+function {#class#}ToClient.OnReceive(cmd, msg, data)
+    if cmd == 10001 then
+
+    end
+
+    if data and data.callback then
+        data.callback()
+        data.callback = nil
+    end
+end
+
+function {#class#}ToClient.OnErrorCode(cmd, code, args, data)
+    UIManager:OpenWindow(ViewID.Tip, GetLanguageText(code))
+end
+
+return {#class#}ToClient

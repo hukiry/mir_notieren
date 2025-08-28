@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 871344598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e7b814abbfb5b98e3fddf167e803bd2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3f816d1878e58cd0e2545becc9c511d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e8969313b8e4614b498f042e99683a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/prefab/Effect/ui_Icon.prefab
+Dependencies: []

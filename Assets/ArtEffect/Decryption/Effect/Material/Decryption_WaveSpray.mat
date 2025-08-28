@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Decryption_WaveSpray
+  m_Shader: {fileID: 4800000, guid: f7f8bced6423d9048b6df904c4215edf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistortTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: be86540e13fc2fe4282c47bb4ad12d56, type: 3}
+        m_Scale: {x: 60, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: be86540e13fc2fe4282c47bb4ad12d56, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: 0fbd1846d46c9eb47a3e2853aa2b8458, type: 3}
+        m_Scale: {x: 1.25, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cull: 0
+    - _Distort: 0
+    - _DistortEnabled: 0
+    - _DistortUVSpeedX: 0
+    - _DistortUVSpeedY: 0
+    - _DstBlend: 10
+    - _Intensity: 1
+    - _MainUVSpeedX: 0
+    - _MainUVSpeedY: 0.72
+    - _MaskEnabled: 0
+    - _MaskUVSpeedX: 0
+    - _MaskUVSpeedY: 0
+    - _Speed: 0.52
+    - _SrcBlend: 1
+    - _WaveSpeed: 1.5
+    - _uv: 0.5
+    m_Colors:
+    - _LightDir: {r: 1, g: 18, b: -12, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0.7058824}
+    - _WaterCol: {r: 0.32600567, g: 0.64063317, b: 0.6981132, a: 1}
+    - _Wetedge: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}

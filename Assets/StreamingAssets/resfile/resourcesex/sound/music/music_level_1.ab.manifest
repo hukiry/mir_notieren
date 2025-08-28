@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3491214152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ebad162445aedf8a71fb5c606a4ed68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Music/Music_Level_1.wav
+Dependencies: []

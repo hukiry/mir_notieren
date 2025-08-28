@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2896169634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f434bdf2a43e82bec957aefcbc17048
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Atlas/Scene/Scene.spriteatlas
+Dependencies: []

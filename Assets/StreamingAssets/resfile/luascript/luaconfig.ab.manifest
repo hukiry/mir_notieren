@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 1831029612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76a4d39cb040fd7ffa41e2c54c6b1a02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luascript/LuaConfig/Recharge/TableRecharge.bytes
+- Assets/luascript/LuaConfig/Map/flag4.bytes
+- Assets/luascript/LuaConfig/Map/flag22.bytes
+- Assets/luascript/LuaConfig/Map/flag6.bytes
+- Assets/luascript/LuaConfig/Global/TableGlobalHelp.bytes
+- Assets/luascript/LuaConfig/ItemCoord/TableItemCoordHelp.bytes
+- Assets/luascript/LuaConfig/Map/flag5.bytes
+- Assets/luascript/LuaConfig/MultiLanguage/TableMultiLanguageHelp.bytes
+- Assets/luascript/LuaConfig/Currency/TableCurrency.bytes
+- Assets/luascript/LuaConfig/Map/flag1.bytes
+- Assets/luascript/LuaConfig/Map/flag7.bytes
+- Assets/luascript/LuaConfig/Map/flag24.bytes
+- Assets/luascript/LuaConfig/Map/flag21.bytes
+- Assets/luascript/LuaConfig/Map/flag3.bytes
+- Assets/luascript/LuaConfig/Map/flag14.bytes
+- Assets/luascript/LuaConfig/Map/flag15.bytes
+- Assets/luascript/LuaConfig/Map/flag17.bytes
+- Assets/luascript/LuaConfig/Map/level_98.bytes
+- Assets/luascript/LuaConfig/Map/flag11.bytes
+- Assets/luascript/LuaConfig/Map/flag25.bytes
+- Assets/luascript/LuaConfig/Map/flag19.bytes
+- Assets/luascript/LuaConfig/SingleConfig.bytes
+- Assets/luascript/LuaConfig/Map/flag2.bytes
+- Assets/luascript/LuaConfig/Map/flag16.bytes
+- Assets/luascript/LuaConfig/Item/TableItemHelp.bytes
+- Assets/luascript/LuaConfig/DropArray/TableDropArray.bytes
+- Assets/luascript/LuaConfig/Map/level_99.bytes
+- Assets/luascript/LuaConfig/Map/flag9.bytes
+- Assets/luascript/LuaConfig/Map/MapLevel.bytes
+- Assets/luascript/LuaConfig/Language/TableLanguageHelp.bytes
+- Assets/luascript/LuaConfig/Pass/TablePassHelp.bytes
+- Assets/luascript/LuaConfig/Map/flag12.bytes
+- Assets/luascript/LuaConfig/Guide/TableGuideHelp.bytes
+- Assets/luascript/LuaConfig/Shop/TableShop.bytes
+- Assets/luascript/LuaConfig/Map/level_100.bytes
+- Assets/luascript/LuaConfig/Shop/TableShopHelp.bytes
+- Assets/luascript/LuaConfig/ConfigurationBase.bytes
+- Assets/luascript/LuaConfig/Map/flag20.bytes
+- Assets/luascript/LuaConfig/Map/flag10.bytes
+- Assets/luascript/LuaConfig/MultiLanguage/TableMultiLanguage.bytes
+- Assets/luascript/LuaConfig/Map/flag29.bytes
+- Assets/luascript/LuaConfig/Map/flag23.bytes
+- Assets/luascript/LuaConfig/Guide/TableGuide.bytes
+- Assets/luascript/LuaConfig/Sign/TableSign.bytes
+- Assets/luascript/LuaConfig/Pass/TablePass.bytes
+- Assets/luascript/LuaConfig/Map/level_101.bytes
+- Assets/luascript/LuaConfig/Global/TableGlobal.bytes
+- Assets/luascript/LuaConfig/Map/flag26.bytes
+- Assets/luascript/LuaConfig/DropArray/TableDropArrayHelp.bytes
+- Assets/luascript/LuaConfig/Item/TableItem.bytes
+- Assets/luascript/LuaConfig/Map/MapShape.bytes
+- Assets/luascript/LuaConfig/Sign/TableSignHelp.bytes
+- Assets/luascript/LuaConfig/Map/flag28.bytes
+- Assets/luascript/LuaConfig/Recharge/TableRechargeHelp.bytes
+- Assets/luascript/LuaConfig/Language/TableLanguage.bytes
+- Assets/luascript/LuaConfig/Map/flag30.bytes
+- Assets/luascript/LuaConfig/Map/flag18.bytes
+- Assets/luascript/LuaConfig/Map/level_150.bytes
+- Assets/luascript/LuaConfig/Map/flag13.bytes
+- Assets/luascript/LuaConfig/Map/flag8.bytes
+- Assets/luascript/LuaConfig/Currency/TableCurrencyHelp.bytes
+- Assets/luascript/LuaConfig/ItemCoord/TableItemCoord.bytes
+- Assets/luascript/LuaConfig/Map/flag27.bytes
+Dependencies: []

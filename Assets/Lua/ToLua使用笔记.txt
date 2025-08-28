@@ -1,0 +1,88 @@
+﻿
+Tolua开发配置如下：
+	LuaConst.cs
+		----此目录，可以取消meta文件的生成
+		public static string luaDir = Application.dataPath.Replace("Assets", "LuaScript");
+		public static string toluaDir = Application.dataPath.Replace("Assets","LuaScript");
+		--以上目录可以改成沙河目录测试：
+		public static string luaDir = Application.persistentDataPath+ "/Android/LuaScript";
+		public static string toluaDir = Application.persistentDataPath + "/Android/LuaScript";
+		--tolua 各平台路径目录 移动端
+		public static string luaResDir=string.Format("{0}/{1}/Lua", Application.persistentDataPath, osDir)
+
+	CustomSettings.cs
+		public static string saveDir = Application.dataPath + "/Lua/Source/Generate/";  //生成的文件目录 
+		public static string toluaBaseType = Application.dataPath + "/Lua/ToLua/BaseType/";
+		public static string baseLuaDir = Application.dataPath + "/Lua/ToLua/Lua/";
+		public static string injectionFilesPath = Application.dataPath + "/Lua/ToLua/Injection/";
+
+	ToLua.cs
+		修改此方法：GetToLuaInstanceID() 
+		修改ToLua路径
+		string dir = "Assets/Lua/ToLua/Core/ToLua.cs";
+		_instanceID = AssetDatabase.LoadAssetAtPath(dir, typeof(MonoScript)).GetInstanceID();//"Assets/Lua/ToLua/Core/ToLua.cs";
+
+tolua菜单脚本
+	ToLuaMenu.cs
+
+tolua.cs 添加全局打印方法
+tolua=>OpenLibs()
+
+C#里调用ToLua
+	LuaFunction->Call() --无返回值的调用；
+	LuaFunction->Invoke<>() --有返回值的调用；
+	LuaFunction->ToDelegate()--委托泛型方法转换
+	LuaState.cs-> Call(classDotFuncName,函数参数列表)--无返回值的调用；
+	LuaState.cs-> Invoke(classDotFuncName,函数参数列表)--有返回值的调用；
+
+lua调用C# 
+	CustomSettings.cs 注册自定义C#类
+	访问C#：类名.类方法。静态方法访问。
+			类对象:实力方法。
+			out 方法引用。返回多个值，out值在后
+
+lua路径加载：
+	LuaState.cs ->AddSearchPath
+
+lua 脚本加载：
+		<1>,lua 中加载 lua脚本
+			require 等于 ToLua.cs->Loader()函数（这个函数中调用 LuaFileUtils.Instance.ReadFile(fileName);）
+			require "UnityEngine/Mathf"  或者 require "UnityEngine.Mathf" UnityEngine是目录，Mathf是lua脚本文件。
+		<2>,C# 中加载 lua脚本
+			LuaState.cs->DoFile(string fileName) 文件名传参和 lua中一致。
+			例如："UnityEngine/Mathf" 或 "UnityEngine.Mathf" 或 "UnityEngine/Mathf.lua" 或 "UnityEngine.Mathf.lua"
+
+		<3>,lua脚本目录
+			默认Lua脚本目录 CustomSettings.cs->baseLuaDir
+			LuaState.cs ->AddSearchPath(string dirFullPath);//可以自定义添加多个完整目录。
+			
+lua 预处理设置
+	ToLuaMenu.cs ->EnableLuaInjection()
+
+Unity 的消息打印
+	 Application.logMessageReceived -= ShowTips;//OnApplicationQuit
+	 Application.logMessageReceived += ShowTips;//游戏开始时
+
+Lua 协议数据解析
+	 -- 需要给 C#->Package.Deserialize() 方法	
+	 -- 添加特性 [LuaInterface.LuaByteBuffer] 才可以被解析出来，否则报错
+	 local msg = task_pb.GMsg_12011001();
+     msg:ParseFromString(data);   --数据回复 
+
+	 --lua表数据发送
+	 msg:SerializeToString()
+
+
+lua 继承
+	tolua.setpeer(数据, 表名) ；数据是基类;表名是子类，可以重新父类方法
+	表名.__index = 表名
+
+lua 支持C# 反射
+	LuaReflection.cs->OpenLibs()
+
+lua 性能秒计算
+	os.clock() 返回浮点秒数
+
+
+local 声明的变量，表示本地静态字段
+self 声明的变量，表示实例字段，需要复制使用

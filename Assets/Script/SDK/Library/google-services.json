@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145268610351",
+    "project_id": "merge-paradise-403010",
+    "storage_bucket": "merge-paradise-403010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145268610351:android:d2b33b7ea33d3a77503dda",
+        "android_client_info": {
+          "package_name": "com.merge.paradise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145268610351-8mn9572ji620brh857nvdonksp79hrt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.merge.paradise",
+            "certificate_hash": "851836a93bcbe692e3726c6250f4fbea976598fe"
+          }
+        },
+        {
+          "client_id": "145268610351-lqd554104jc4p9i9lm1bvrp1vm3m7n8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgU1xdKToAA_H8TPOZcuHA8BJGSv-d8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145268610351-lqd554104jc4p9i9lm1bvrp1vm3m7n8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

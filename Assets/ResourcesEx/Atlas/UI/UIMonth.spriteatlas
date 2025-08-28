@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIMonth
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 32e79978b7936b74cad560db01a6a187, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 055ab100b9c7d934f9562cfbb541cb84, type: 3}
+  - {fileID: 21300000, guid: e3e8e310554bf0c49baf0ec4995fc842, type: 3}
+  - {fileID: 21300000, guid: 279323111fb971e459ee62aaa952e6d1, type: 3}
+  - {fileID: 21300000, guid: 166de1a14c33e7d41afc6e3bc401dba1, type: 3}
+  - {fileID: 21300000, guid: 422982c2046e5864993944c3492d9106, type: 3}
+  - {fileID: 21300000, guid: 82a5a5434daf66f41bf63e1597494e12, type: 3}
+  - {fileID: 21300000, guid: 4a0924761ad5f03458264e404593f84b, type: 3}
+  - {fileID: 21300000, guid: dc3df5c64863db449a231423f90774cc, type: 3}
+  - {fileID: 21300000, guid: bedb9997df6ce9344862cc38ec52a1c3, type: 3}
+  - {fileID: 21300000, guid: b61906f7e2cd893499599253590681a0, type: 3}
+  - {fileID: 21300000, guid: bb8a4919ac999054f8bb2a505a349e98, type: 3}
+  - {fileID: 21300000, guid: 0d2af149111837048b6850aa93e300d1, type: 3}
+  - {fileID: 21300000, guid: 127563f92c71b374791447c47869a640, type: 3}
+  - {fileID: 21300000, guid: 2c6b07ea5dd6c6f41879cc712894ac25, type: 3}
+  - {fileID: 21300000, guid: 7d6d110baf4ba6b48ae00edba3f20837, type: 3}
+  - {fileID: 21300000, guid: 1921d78b1e319714995f7e1f7c5ed041, type: 3}
+  - {fileID: 21300000, guid: 6cf85d9bb1d1e1d4e88fd96beb07eeaa, type: 3}
+  - {fileID: 21300000, guid: e9d739bba861d0d4ba21ff89dba92aed, type: 3}
+  - {fileID: 21300000, guid: 8be8752ca92fd2b409c6a23e3f295361, type: 3}
+  - {fileID: 21300000, guid: 7d83756c41265534195b38052ef32021, type: 3}
+  - {fileID: 21300000, guid: 608fae0d690561749b81659cfe6ccd69, type: 3}
+  - {fileID: 21300000, guid: 4d49ac1e14dd484469c4213e5b05bf50, type: 3}
+  - {fileID: 21300000, guid: 1c06aeefbc985994897bae3dbf15cdeb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - zzq
+  - yuandi1
+  - shutiao
+  - diban2
+  - ykbg
+  - mbzb
+  - line
+  - hengtiao1
+  - yuandi2
+  - hengtiao2
+  - fangkuai1
+  - zzs
+  - yuantiao
+  - fangkuai2
+  - zhong
+  - wujian
+  - diban1
+  - yueka
+  - yk
+  - fangkuai3
+  - wjx
+  - beijing
+  - zhouka
+  m_Tag: UIMonth
+  m_IsVariant: 0

@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Item
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 49
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b6aa973aea0255f45939e25b079b6d82, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 11557600c35376a4192eb4e5d11ba7bc, type: 3}
+  - {fileID: 21300000, guid: 46c70310528da284c815512ef24748c3, type: 3}
+  - {fileID: 21300000, guid: 94e11140f223bc54bb3e0d2024bafb9a, type: 3}
+  - {fileID: 21300000, guid: a586c54014b6a8145a5e4d1c5f0ea0e4, type: 3}
+  - {fileID: 21300000, guid: f5c82f60af913364aa483503ddc0cc52, type: 3}
+  - {fileID: 21300000, guid: 75edb0707a9da7341a3ea123b4e668e5, type: 3}
+  - {fileID: 21300000, guid: e57446b09af19194db1e780037e87233, type: 3}
+  - {fileID: 21300000, guid: e1b446f0dd6abd047a03508ea422d764, type: 3}
+  - {fileID: 21300000, guid: badded115c775d04d860ccd4b9eddc30, type: 3}
+  - {fileID: 21300000, guid: 105d9c319e5cd3c44adb50754fc4f507, type: 3}
+  - {fileID: 21300000, guid: 610d5551ff54c824e961eb5126d242cf, type: 3}
+  - {fileID: 21300000, guid: 8d2ad651b0fd08b48a19bbdc99f52d98, type: 3}
+  - {fileID: 21300000, guid: a224ae02b4252b1439f6ad5ae30952da, type: 3}
+  - {fileID: 21300000, guid: 0537695243bf0a448822eae3b90cc9b8, type: 3}
+  - {fileID: 21300000, guid: 6903cb6200b619444b92115ee8e3ca68, type: 3}
+  - {fileID: 21300000, guid: 748331824b6a1e7449320ec2a347bfee, type: 3}
+  - {fileID: 21300000, guid: b08d4692a009c144a8d25a6e40532fbe, type: 3}
+  - {fileID: 21300000, guid: bcb2a0d2efa53ec48b90ac5d8780b94e, type: 3}
+  - {fileID: 21300000, guid: 644addf28981c90498b03725f4d73031, type: 3}
+  - {fileID: 21300000, guid: bf12650316e01264787a14c38472d80c, type: 3}
+  - {fileID: 21300000, guid: 4e002c5377c60414cb72155c55cbb5b1, type: 3}
+  - {fileID: 21300000, guid: bce68a733fbc57a4995419eea0c102ed, type: 3}
+  - {fileID: 21300000, guid: 42455f83ca38f9f47a956b08c15fcb5c, type: 3}
+  - {fileID: 21300000, guid: be4aade3802b6454e8d8443c890cae14, type: 3}
+  - {fileID: 21300000, guid: 307d7634f04d0cc48aad6c0b4a3f15cc, type: 3}
+  - {fileID: 21300000, guid: 3702928405fbd3d47bc41e4a3d636ec0, type: 3}
+  - {fileID: 21300000, guid: c02e3884d99578142abb0445deb8e5c2, type: 3}
+  - {fileID: 21300000, guid: cf161b94390edaa42a84510937235bfa, type: 3}
+  - {fileID: 21300000, guid: 7cd558a43cb639340b23382c8dd785a4, type: 3}
+  - {fileID: 21300000, guid: 5bff75d448ca19a449905730b0fe1ce9, type: 3}
+  - {fileID: 21300000, guid: fe6d4205bae9ebd4aa825c3abcd1ffff, type: 3}
+  - {fileID: 21300000, guid: 09986505d560fa740b32a84e6bfffdca, type: 3}
+  - {fileID: 21300000, guid: c2acd315f5f516743be396a7a29ee240, type: 3}
+  - {fileID: 21300000, guid: 0ab853252e323b64085bd63c5e37d713, type: 3}
+  - {fileID: 21300000, guid: 705c4345b40339742be8a76062e72305, type: 3}
+  - {fileID: 21300000, guid: 54c8d755825ef614593388440222eed9, type: 3}
+  - {fileID: 21300000, guid: e81519552b350104d9d309db88420724, type: 3}
+  - {fileID: 21300000, guid: cd1dbc657e901bf469574a3e6207501f, type: 3}
+  - {fileID: 21300000, guid: e87a9b75113afda4bbad8d01c987edca, type: 3}
+  - {fileID: 21300000, guid: 991cb21662c76b340b5b102b2e7756ae, type: 3}
+  - {fileID: 21300000, guid: 6473c716355b26e4ca0e6c5994c65590, type: 3}
+  - {fileID: 21300000, guid: e6f8af169f0697e4bb61d337700e0675, type: 3}
+  - {fileID: 21300000, guid: 8a1464263ff326943a1298aacb70d094, type: 3}
+  - {fileID: 21300000, guid: 1775c036acb30cd4d9818eef03c4fe08, type: 3}
+  - {fileID: 21300000, guid: d5469fd623190854197da0d9be197677, type: 3}
+  - {fileID: 21300000, guid: 5c3babf6101ec044082f3e902c3a24e0, type: 3}
+  - {fileID: 21300000, guid: 0c8edb274150d4b4a94c8f51cf40d274, type: 3}
+  - {fileID: 21300000, guid: 10618c57816f1a0479ca4b9a7ad1468a, type: 3}
+  - {fileID: 21300000, guid: 03fbaa675ffd3dc4196bce85334f1cc8, type: 3}
+  - {fileID: 21300000, guid: 33f1ca772f55b1c49bec865c8bd24239, type: 3}
+  - {fileID: 21300000, guid: c193e2a7d4d136346ae97577d789a583, type: 3}
+  - {fileID: 21300000, guid: cbcab6b7531edfa4cbeafc9c4f04dfdd, type: 3}
+  - {fileID: 21300000, guid: 9743723875d614a4489b19c60ba67188, type: 3}
+  - {fileID: 21300000, guid: ed816e581a7e04f45b77293f527aae91, type: 3}
+  - {fileID: 21300000, guid: 010dc188b7a6f2b4cbe64dd681d34b50, type: 3}
+  - {fileID: 21300000, guid: 9e6ff3880980eb64e8ef14657232f4bf, type: 3}
+  - {fileID: 21300000, guid: e3f6a1c85705c174bbdc13e545886759, type: 3}
+  - {fileID: 21300000, guid: 2a4c57c8bf796ac4cb5db9547f18115d, type: 3}
+  - {fileID: 21300000, guid: bd2dc309f4dddbb408f1e0e8abe0341c, type: 3}
+  - {fileID: 21300000, guid: 69a96719e89e49c4687d0e3af2434e8b, type: 3}
+  - {fileID: 21300000, guid: 205ebb191a7065844a797e5f7dc32b73, type: 3}
+  - {fileID: 21300000, guid: 0c649f398c451164faf9547169cedaa3, type: 3}
+  - {fileID: 21300000, guid: 4b6e316933ee1514c9b28137798348aa, type: 3}
+  - {fileID: 21300000, guid: 9eb7a479879838d4db4b7a05a8dd0527, type: 3}
+  - {fileID: 21300000, guid: 57d298a9c62b4b44b80e9dc23f4a62ee, type: 3}
+  - {fileID: 21300000, guid: ec6394d9c321b5b419dfebf2cb05ec42, type: 3}
+  - {fileID: 21300000, guid: 5cfa1bf90332a2e41b4ade88313b7797, type: 3}
+  - {fileID: 21300000, guid: a283cf4ac27996f45be0c5c7bec8ebb4, type: 3}
+  - {fileID: 21300000, guid: 03d6d4ba182d8554f904e18c1ff7fd0c, type: 3}
+  - {fileID: 21300000, guid: 8df24d5b2ed8d6446927f9cfde228f84, type: 3}
+  - {fileID: 21300000, guid: faaf108bb837db54e8e14cc0aad3b05a, type: 3}
+  - {fileID: 21300000, guid: 570edcdbbd9fb884eace853255dcaed1, type: 3}
+  - {fileID: 21300000, guid: 0b4f89eb3ce66ea468279942950b1877, type: 3}
+  - {fileID: 21300000, guid: 089ef96cfe337104f8bd69aa5189dada, type: 3}
+  - {fileID: 21300000, guid: c8dfd7acb886ff9438b514c4e167b20b, type: 3}
+  - {fileID: 21300000, guid: 7c476cbc7231f2246ad23b0eb88da358, type: 3}
+  - {fileID: 21300000, guid: ff1e3cdcdd175874f97ebed64f049145, type: 3}
+  - {fileID: 21300000, guid: 5d48450d39b8d2846a646048016bab7c, type: 3}
+  - {fileID: 21300000, guid: 5bf6922dac5c36642b1703e173791e40, type: 3}
+  - {fileID: 21300000, guid: dd37993dedab48d44966a00871fd4a04, type: 3}
+  - {fileID: 21300000, guid: d200415d151bfef4ab2b0399668d93ac, type: 3}
+  - {fileID: 21300000, guid: d82c24bda3262d0418a59b2030462811, type: 3}
+  - {fileID: 21300000, guid: 46418ced6ace2ab41823f58439997577, type: 3}
+  - {fileID: 21300000, guid: 3af88afd1c41d7b4785362c319be8b0a, type: 3}
+  - {fileID: 21300000, guid: 88231efd670c527408123d845b3ec2ab, type: 3}
+  - {fileID: 21300000, guid: 66a66e8ee7ec02444817c2e2f9f5693d, type: 3}
+  - {fileID: 21300000, guid: 7e60809e3925a734088fee32f5ee0b9f, type: 3}
+  - {fileID: 21300000, guid: 6a86c6be22c7e3d4d974bc3ef4391d7e, type: 3}
+  - {fileID: 21300000, guid: 7ac719be50e964748983941b9b89ecfa, type: 3}
+  - {fileID: 21300000, guid: 7930a76fed8076d40a707b3bfef4fe5c, type: 3}
+  - {fileID: 21300000, guid: 70ad6c6f743cff944aba1ef2cbfbdb68, type: 3}
+  - {fileID: 21300000, guid: cb4b56bffb4eba244bd7f1baf6061803, type: 3}
+  - {fileID: 21300000, guid: ddbd22efe0722214a8b75d873344f40b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bowl_door
+  - flowerbed
+  - box_green_horizontal
+  - box_red_horizontal
+  - dragon_blue1
+  - rocket
+  - green
+  - box_yellow_horizontal
+  - purple1
+  - bomb
+  - jar_red
+  - jar_0
+  - stonePier
+  - dragon_card
+  - solo01
+  - shell
+  - item_gun
+  - jar_green
+  - cyan
+  - red
+  - green1
+  - cyan1
+  - box_xie
+  - life_tag
+  - pikachu
+  - bubble_0
+  - watermelon_1
+  - box_blue_horizontal
+  - item_hammer
+  - box_green_xie
+  - woodenPeg
+  - bowl
+  - dragon_blue2
+  - item_jar
+  - pond
+  - box_blue
+  - safeBox
+  - life_fill
+  - stone_carve
+  - icon_10005
+  - CloudFlower
+  - box_green
+  - box
+  - watermelon_0
+  - glass_0
+  - blue1
+  - box_purple_horizontal
+  - shell_pearl
+  - box_yellow
+  - yellow1
+  - box_purple_xie
+  - chicken_egg
+  - greenMoss
+  - baseboard
+  - box_horizontal
+  - bowl_shadow
+  - box_yellow_xie
+  - jar_yellow
+  - icon_10001
+  - box_red
+  - yellow
+  - horizontal_rocket
+  - red1
+  - jar_counter
+  - snail
+  - butterfly
+  - blue
+  - bubble_2
+  - safeBox_gold
+  - cloud
+  - item_bows
+  - jar_shadow
+  - dragon_house
+  - purple
+  - box_blue_xie
+  - jar_1
+  - item_shadow
+  - glass_1
+  - icon_10003
+  - jinbi
+  - vertical_rocket
+  - chicken
+  - box_purple
+  - item_cap
+  - box_red_xie
+  - egg
+  - bowl_counter
+  - life_heart
+  - bubble_1
+  - dragonfly
+  - rainbow_ball
+  - icon_10004
+  - jar_blue
+  m_Tag: Item
+  m_IsVariant: 0

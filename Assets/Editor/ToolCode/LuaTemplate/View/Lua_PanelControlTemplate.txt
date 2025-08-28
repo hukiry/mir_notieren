@@ -1,0 +1,29 @@
+﻿---
+--- UI View Gen From GenUITools，Please Don't Modify!
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}PanelControl
+local {#class#}PanelControl = Class()
+
+function {#class#}PanelControl:ctor(gameObject)
+	---@type UnityEngine.GameObject 
+	self.gameObject = gameObject
+	---@type UnityEngine.Transform
+	self.transform = gameObject.transform
+	---@type UnityEngine.RectTransform
+	self.rectTransform = gameObject:GetComponent("RectTransform")
+{#init#}
+end
+
+---释放
+function {#class#}PanelControl:OnDestroy()
+	for i, v in pairs({#class#}PanelControl) do
+		if type(v) ~= "function" then
+			{#class#}PanelControl[i] = nil
+		end
+	end
+end
+
+return {#class#}PanelControl

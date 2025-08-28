@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 860042727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 901c04a69aa21acffe4e7439d7315022
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/glass_poshui.wav
+Dependencies: []

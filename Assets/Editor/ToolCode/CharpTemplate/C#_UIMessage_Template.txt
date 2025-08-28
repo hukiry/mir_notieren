@@ -1,0 +1,47 @@
+﻿/*
+  工具生成一次
+*/
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using Nuts.net;
+ 
+ 
+using UnityEngine;
+
+public class {#class#} : BaseControl<{#class#}>
+{
+    protected override void NetListener()
+    {
+	    //AppNet.Instance.AddCMD(ECmdId.GMsg_11001005, GMsg_11001005Func);//点击进入游戏
+    }
+
+   /* 
+    private void GMsg_11001005Func(Package receiveData)
+    {
+        GMsg_11001005 msg = receiveData.Deserialize<GMsg_11001005>();
+        LogManager.Log("错误码flag:", msg.errorCode);
+        UITipsView.Instance.ShowView(msg.msg);
+    }
+
+    public void Request_LoginEnter(string PlayerName, bool isEnterGame = false)//点击进入游戏
+    {
+        this.isEnterGame = isEnterGame;
+        if (AppNet.Instance.IsOpenSingle)
+        {
+            GMsg_11001002 msg = new GMsg_11001002();
+            SendMessage(ECmdId.GMsg_11001002, msg);
+        }
+        else
+        {
+            GMsg_11001001 msg = new GMsg_11001001()
+            {
+                name = PlayerName
+            };
+
+            SendMessage(ECmdId.GMsg_11001001, msg);
+        }
+       
+    }
+	*/
+}

@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 3b5eb9f2639dc52489e796377fb9e07e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: River
+    100002: //RootNode
+    100004: water_01
+    100006: water_LianY
+    100008: "\u7A7A\u7269\u4F53"
+    100010: water_01.001
+    100012: water_lianyi
+    100014: water_Lianyi
+    100016: water_Lianyi.001
+    100018: water_Lang
+    100020: water_Lang.002
+    100022: water_Lang.001
+    100024: water_Lang.003
+    100026: water_Lang.004
+    100028: water_Lang.005
+    100030: River.01
+    100032: River.002
+    100034: water_Lang.006
+    400000: River
+    400002: //RootNode
+    400004: water_01
+    400006: water_LianY
+    400008: "\u7A7A\u7269\u4F53"
+    400010: water_01.001
+    400012: water_lianyi
+    400014: water_Lianyi
+    400016: water_Lianyi.001
+    400018: water_Lang
+    400020: water_Lang.002
+    400022: water_Lang.001
+    400024: water_Lang.003
+    400026: water_Lang.004
+    400028: water_Lang.005
+    400030: River.01
+    400032: River.002
+    400034: water_Lang.006
+    2100000: No Name
+    2300000: River
+    2300002: water_01
+    2300004: water_LianY
+    2300006: water_01.001
+    2300008: water_lianyi
+    2300010: water_Lianyi
+    2300012: //RootNode
+    2300014: water_Lianyi.001
+    2300016: water_Lang
+    2300018: water_Lang.002
+    2300020: water_Lang.001
+    2300022: water_Lang.003
+    2300024: water_Lang.004
+    2300026: water_Lang.005
+    2300028: River.01
+    2300030: River.002
+    2300032: water_Lang.006
+    3300000: River
+    3300002: water_01
+    3300004: water_LianY
+    3300006: water_01.001
+    3300008: water_lianyi
+    3300010: water_Lianyi
+    3300012: //RootNode
+    3300014: water_Lianyi.001
+    3300016: water_Lang
+    3300018: water_Lang.002
+    3300020: water_Lang.001
+    3300022: water_Lang.003
+    3300024: water_Lang.004
+    3300026: water_Lang.005
+    3300028: River.01
+    3300030: River.002
+    3300032: water_Lang.006
+    4300000: water_01
+    4300002: River
+    4300004: water_LianY
+    4300006: water_01.001
+    4300008: water_lianyi
+    4300010: water_Lianyi
+    4300012: water_Lianyi.001
+    4300014: water_Lang
+    4300016: water_Lang.002
+    4300018: water_Lang.001
+    4300020: water_Lang.003
+    4300022: water_Lang.004
+    4300024: water_Lang.005
+    4300026: River.01
+    4300028: River.002
+    4300030: water_Lang.006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

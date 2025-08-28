@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 3302150881
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73a72c0344290d7e30183e57be9dd7e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/luascript/Library/View/EventTriggerType.bytes
+- Assets/luascript/Library/Loader/Res/Assist/ResourcesLoader.bytes
+- Assets/luascript/Library/UIWidget/Page/IPageView.bytes
+- Assets/luascript/Library/Loader/Res/EditorLoader.bytes
+- Assets/luascript/Library/Adaption/ScreenIPhoneSize.bytes
+- Assets/luascript/Library/MessageBox/TipMessageBox.bytes
+- Assets/luascript/Library/Loader/Sprite/HttpTextureDownload.bytes
+- Assets/luascript/Library/UIWidget/Scroll/UIScrollViewNested.bytes
+- Assets/luascript/Library/Loader/Res/ResManager.bytes
+- Assets/luascript/Library/Loader/Res/Weg/EditorLoader.bytes
+- Assets/luascript/Library/Loader/Res/SpriteAtlasManager.bytes
+- Assets/luascript/Library/Pool/GameObjectPool.bytes
+- Assets/luascript/Library/Utility/StringUtil.bytes
+- Assets/luascript/Library/UIWidget/Scroll/UILoopItemView.bytes
+- Assets/luascript/Library/Audio/AudioElement.bytes
+- Assets/luascript/Library/View/UIManager.bytes
+- Assets/luascript/Library/Extend/TableExtend.bytes
+- Assets/luascript/Library/Loader/Res/Assist/AssetBlockAssist.bytes
+- Assets/luascript/Library/Symbols/GameSymbols.bytes
+- Assets/luascript/Library/Loader/Model/AsynModelController.bytes
+- Assets/luascript/Library/Loader/Sprite/LocalSprite.bytes
+- Assets/luascript/Library/Pool/UIPanelPool.bytes
+- Assets/luascript/Library/Loader/Model/ArmatureController.bytes
+- Assets/luascript/Library/Loader/Res/AssetBundleLoader.bytes
+- Assets/luascript/Library/UIWidget/Page/ButtonItem.bytes
+- Assets/luascript/Library/Utility/UtilFunction.bytes
+- Assets/luascript/Library/UIWidget/Scroll/IUIItem.bytes
+- Assets/luascript/Library/View/DisplayObjectBase.bytes
+- Assets/luascript/Library/Utility/CameraUtil.bytes
+- Assets/luascript/Library/Loader/Res/ScenePreloaded.bytes
+- Assets/luascript/Library/UIWidget/Dropdown/DropdownView.bytes
+- Assets/luascript/Library/Effect/EffectItem3D.bytes
+- Assets/luascript/Library/Loader/Res/Assist/AssetBundleManager.bytes
+- Assets/luascript/Library/UIWidget/Page/ButtonListView.bytes
+- Assets/luascript/Library/Loader/Res/SingleAssist.bytes
+- Assets/luascript/Library/Effect/EffectItem2D.bytes
+- Assets/luascript/Library/Extend/FunctionExtend.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/AssetBundleCache.bytes
+- Assets/luascript/Library/UIWidget/Toggle/ToggleView.bytes
+- Assets/luascript/Library/Utility/NumberUtil.bytes
+- Assets/luascript/Library/Loader/Model/ModelController.bytes
+- Assets/luascript/Library/Animation/AnimationRule.bytes
+- Assets/luascript/Library/Utility/MaterialUtil.bytes
+- Assets/luascript/Library/UIWidget/Scroll/UIItemViewBase.bytes
+- Assets/luascript/Library/Effect/EffectBase.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/AssetAsyncLoader.bytes
+- Assets/luascript/Library/UIWidget/Scroll/UIItemView.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/LoadRequest/ABMemoryRequest.bytes
+- Assets/luascript/Library/Timer/TimerHandler.bytes
+- Assets/luascript/Library/Pool/FlyItemBase.bytes
+- Assets/luascript/Library/Utility/MathUtil.bytes
+- Assets/luascript/Library/Pool/SceneItemPool.bytes
+- Assets/luascript/Library/Pool/ScenePoolRule.bytes
+- Assets/luascript/Library/Pool/UIItemPool.bytes
+- Assets/luascript/Library/Audio/SoundManager.bytes
+- Assets/luascript/Library/Loader/Model/UIModelController.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/RefObject.bytes
+- Assets/luascript/Library/Loader/Res/Weg/AssetsLoaderMgr.bytes
+- Assets/luascript/Library/Effect/EffectManager.bytes
+- Assets/luascript/Library/Animation/AnimationManager.bytes
+- Assets/luascript/Library/Effect/EffectItem3DFly.bytes
+- Assets/luascript/Library/DataCache/PlayerPrefsManager.bytes
+- Assets/luascript/Library/View/UIWindowBase.bytes
+- Assets/luascript/Library/Utility/UIWindowUtil.bytes
+- Assets/luascript/Library/Loader/Res/Assist/AssetsLoaderAssist.bytes
+- Assets/luascript/Library/Audio/AudioManager.bytes
+- Assets/luascript/Library/UIWidget/Page/PageManager.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/AssetBundleHolder.bytes
+- Assets/luascript/Library/Loader/Res/AssetsLoaderMgr.bytes
+- Assets/luascript/Library/Loader/Res/Weg/AssetBundleLoader.bytes
+- Assets/luascript/Library/Loader/Sprite/CommonSprite.bytes
+- Assets/luascript/Library/Utility/MapUtil.bytes
+- Assets/luascript/Library/UIWidget/InputFieldItem.bytes
+- Assets/luascript/Library/Timer/TimerManger.bytes
+- Assets/luascript/Library/DataCache/SQLDataManager.bytes
+- Assets/luascript/Library/DataCache/BinaryDataManager.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/LoadRequest/LoadRequest.bytes
+- Assets/luascript/Library/Utility/TimeUtil.bytes
+- Assets/luascript/Library/Loader/Res/ABLoader/LoadRequest/ABRequest.bytes
+- Assets/luascript/Library/UIWidget/Page/PageItem.bytes
+- Assets/luascript/Library/Loader/Model/SpineController.bytes
+Dependencies: []

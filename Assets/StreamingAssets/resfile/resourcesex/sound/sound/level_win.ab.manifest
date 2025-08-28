@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2241255222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ecb4b7a0172a46d646ea0a8f9534f6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/level_win.wav
+Dependencies: []

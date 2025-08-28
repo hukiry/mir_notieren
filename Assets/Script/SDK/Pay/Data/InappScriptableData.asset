@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c3e63cbc334d444a5a8a10e3d2339f, type: 3}
+  m_Name: InappScriptableData
+  m_EditorClassIdentifier: 
+  details:
+  - product_id: com.yiliu.HappyMatch
+    price: $0.99
+    amount: 99
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $1.99
+    amount: 199
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $2.99
+    amount: 299
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $3.99
+    amount: 399
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $4.99
+    amount: 499
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $5.99
+    amount: 599
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $6.99
+    amount: 699
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $7.99
+    amount: 799
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $8.99
+    amount: 899
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $9.99
+    amount: 999
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $19.99
+    amount: 1999
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $29.99
+    amount: 2999
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $39.99
+    amount: 3999
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $49.99
+    amount: 4999
+    isEnable: 0
+  - product_id: com.yiliu.HappyMatch
+    price: $59.99
+    amount: 5999
+    isEnable: 0
+  - product_id: 
+    price: 
+    amount: 6999
+    isEnable: 0
+  - product_id: 
+    price: 
+    amount: 7999
+    isEnable: 0
+  - product_id: 
+    price: 
+    amount: 8999
+    isEnable: 0
+  - product_id: 
+    price: 
+    amount: 9999
+    isEnable: 0

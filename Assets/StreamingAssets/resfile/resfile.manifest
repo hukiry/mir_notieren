@@ -1,0 +1,653 @@
+ManifestFileVersion: 0
+CRC: 3234453853
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: luascript/game.ab
+      Dependencies: {}
+    Info_1:
+      Name: luascript/network.ab
+      Dependencies: {}
+    Info_2:
+      Name: resourcesex/prefab/ui/activityview/chestview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_3:
+      Name: luascript/tolua.ab
+      Dependencies: {}
+    Info_4:
+      Name: resourcesex/prefab/ui/metauniverse/winfail/metafailview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_5:
+      Name: luascript/luaconfig.ab
+      Dependencies: {}
+    Info_6:
+      Name: resourcesex/prefab/ui/tip/tipitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_7:
+      Name: resourcesex/prefab/scene/flyitem.ab
+      Dependencies: {}
+    Info_8:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymapcreateview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+    Info_9:
+      Name: resourcesex/texture/bg02.ab
+      Dependencies: {}
+    Info_10:
+      Name: resourcesex/prefab/ui/leveltip/levelchallengeview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_11:
+      Name: resourcesex/shader/rapidblureffect.ab
+      Dependencies: {}
+    Info_12:
+      Name: resourcesex/prefab/ui/metauniverse/panel/mymappanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+    Info_13:
+      Name: resourcesex/sound/sound/page_click.ab
+      Dependencies: {}
+    Info_14:
+      Name: resourcesex/prefab/ui/gm/gmwinview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_15:
+      Name: resourcesex/prefab/ui/setting/settingview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_16:
+      Name: resourcesex/prefab/ui/metauniverse/item/selectcarditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_17:
+      Name: resourcesex/sound/sound/item_rocket.ab
+      Dependencies: {}
+    Info_18:
+      Name: resourcesex/prefab/ui/friend/friendview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+    Info_19:
+      Name: resourcesex/shader/vignette.ab
+      Dependencies: {}
+    Info_20:
+      Name: resourcesex/prefab/ui/promptbox/propstipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_21:
+      Name: resourcesex/sound/sound/bubble.ab
+      Dependencies: {}
+    Info_22:
+      Name: resourcesex/prefab/ui/activityview/propsview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_23:
+      Name: resourcesex/prefab/ui/pass/passitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+        Dependency_3: resourcesex/prefab/effect/ui_rewarditem.ab
+        Dependency_4: resourcesex/atlas/ui/uimonth.ab
+    Info_24:
+      Name: resourcesex/prefab/scene/metaitem.ab
+      Dependencies: {}
+    Info_25:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymapinfoview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uimeta.ab
+    Info_26:
+      Name: resourcesex/prefab/ui/leveltip/levelwinview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/prefab/effect/effect_matchui_levelwin.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_27:
+      Name: resourcesex/font/hukiry.ab
+      Dependencies: {}
+    Info_28:
+      Name: resourcesex/prefab/ui/metauniverse/panel/settingmappanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+        Dependency_2: resourcesex/atlas/scene/item.ab
+        Dependency_3: resourcesex/atlas/ui/uiicon.ab
+    Info_29:
+      Name: resourcesex/sound/sound/use_props.ab
+      Dependencies: {}
+    Info_30:
+      Name: resourcesex/prefab/ui/shop/rechargeview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_31:
+      Name: resourcesex/shader/myshadergray.ab
+      Dependencies: {}
+    Info_32:
+      Name: resourcesex/prefab/ui/metauniverse/metahomeview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+    Info_33:
+      Name: resourcesex/sound/sound/level_win.ab
+      Dependencies: {}
+    Info_34:
+      Name: resourcesex/prefab/ui/gift/giftview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_35:
+      Name: resourcesex/prefab/ui/setting/feedfaceview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_36:
+      Name: resourcesex/sound/sound/glass_poshui.ab
+      Dependencies: {}
+    Info_37:
+      Name: resourcesex/prefab/ui/animation/viewflyitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/scene/item.ab
+    Info_38:
+      Name: resourcesex/shader/diffusebump.ab
+      Dependencies: {}
+    Info_39:
+      Name: resourcesex/prefab/ui/main/gameview.ab
+      Dependencies:
+        Dependency_0: resourcesex/texture/loadingbg.ab
+        Dependency_1: resourcesex/atlas/ui/uicommon.ab
+        Dependency_2: resourcesex/atlas/scene/item.ab
+        Dependency_3: resourcesex/atlas/ui/uiicon.ab
+    Info_40:
+      Name: resourcesex/sound/music/music_level_2.ab
+      Dependencies: {}
+    Info_41:
+      Name: resourcesex/prefab/ui/activityview/chestitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_42:
+      Name: resourcesex/prefab/ui/loading/loadingview.ab
+      Dependencies:
+        Dependency_0: resourcesex/texture/loadingbg.ab
+    Info_43:
+      Name: resourcesex/prefab/scene/explosionitem.ab
+      Dependencies: {}
+    Info_44:
+      Name: resourcesex/prefab/ui/metauniverse/tip/metatipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_45:
+      Name: resourcesex/texture/bg01.ab
+      Dependencies: {}
+    Info_46:
+      Name: resourcesex/prefab/ui/shop/shopitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_47:
+      Name: resourcesex/prefab/ui/metauniverse/panel/fightmappanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+    Info_48:
+      Name: resourcesex/sound/sound/obstacle_poshui.ab
+      Dependencies: {}
+    Info_49:
+      Name: resourcesex/prefab/ui/gm/gmview.ab
+      Dependencies:
+        Dependency_0: resourcesex/font/hukiry.ab
+        Dependency_1: resourcesex/atlas/ui/uicommon.ab
+    Info_50:
+      Name: resourcesex/prefab/ui/setting/roleview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_51:
+      Name: resourcesex/shader/indicator.ab
+      Dependencies: {}
+    Info_52:
+      Name: resourcesex/prefab/ui/metauniverse/item/graphicfightitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+    Info_53:
+      Name: resourcesex/sound/sound/item_poshui.ab
+      Dependencies: {}
+    Info_54:
+      Name: resourcesex/prefab/ui/friend/chatitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_55:
+      Name: resourcesex/prefab/ui/promptbox/promptboxview.ab
+      Dependencies: {}
+    Info_56:
+      Name: resourcesex/prefab/ui/main/rankitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+    Info_57:
+      Name: resourcesex/prefab/ui/activityview/drawcardview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_58:
+      Name: resourcesex/shader/custom/gridmesh.ab
+      Dependencies: {}
+    Info_59:
+      Name: resourcesex/prefab/ui/mail/mailtipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_60:
+      Name: resourcesex/prefab/scene/griditem.ab
+      Dependencies: {}
+    Info_61:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymapfightview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uimeta.ab
+        Dependency_3: resourcesex/atlas/ui/uiicon.ab
+    Info_62:
+      Name: resourcesex/prefab/ui/leveltip/levelquitview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_63:
+      Name: resourcesex/prefab/ui/sign/signmonthview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_64:
+      Name: resourcesex/prefab/ui/metauniverse/panel/quitmappanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+    Info_65:
+      Name: resourcesex/sound/sound/sound_gold.ab
+      Dependencies: {}
+    Info_66:
+      Name: resourcesex/prefab/ui/guide/guideview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_67:
+      Name: resourcesex/prefab/ui/metauniverse/metaeditorview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uimeta.ab
+        Dependency_3: resourcesex/atlas/scene/item.ab
+    Info_68:
+      Name: resourcesex/sound/sound/level_fail.ab
+      Dependencies: {}
+    Info_69:
+      Name: resourcesex/prefab/ui/gift/giftitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_70:
+      Name: resourcesex/prefab/ui/mass/masspanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+        Dependency_2: resourcesex/atlas/scene/item.ab
+    Info_71:
+      Name: resourcesex/sound/sound/buy_glod.ab
+      Dependencies: {}
+    Info_72:
+      Name: resourcesex/prefab/ui/pass/passview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimonth.ab
+    Info_73:
+      Name: resourcesex/prefab/ui/main/frienditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+    Info_74:
+      Name: resourcesex/sound/music/music_level_1.ab
+      Dependencies: {}
+    Info_75:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymaptipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+        Dependency_2: resourcesex/atlas/ui/uimeta.ab
+    Info_76:
+      Name: resourcesex/prefab/ui/task/taskview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_77:
+      Name: resourcesex/prefab/ui/metauniverse/tip/metaenterview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_78:
+      Name: resourcesex/texture/baseboard.ab
+      Dependencies: {}
+    Info_79:
+      Name: resourcesex/prefab/ui/level/targetitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_80:
+      Name: resourcesex/prefab/ui/shop/shopcoinitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_81:
+      Name: resourcesex/shader/particlemask.ab
+      Dependencies: {}
+    Info_82:
+      Name: resourcesex/sound/sound/merge_newitem.ab
+      Dependencies: {}
+    Info_83:
+      Name: resourcesex/prefab/ui/setting/lanbuttonitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_84:
+      Name: resourcesex/prefab/ui/metauniverse/item/graphiccarditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uimeta.ab
+    Info_85:
+      Name: resourcesex/sound/sound/item_move.ab
+      Dependencies: {}
+    Info_86:
+      Name: resourcesex/prefab/ui/friend/challengeitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+    Info_87:
+      Name: resourcesex/prefab/ui/promptbox/commontipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_88:
+      Name: resourcesex/prefab/ui/main/lifeview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_89:
+      Name: resourcesex/sound/music/music_meta.ab
+      Dependencies: {}
+    Info_90:
+      Name: resourcesex/prefab/ui/activityview/drawcarditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+        Dependency_3: resourcesex/prefab/effect/ui_rewarditem.ab
+        Dependency_4: resourcesex/prefab/effect/ui_book_open.ab
+    Info_91:
+      Name: resourcesex/prefab/ui/metauniverse/winfail/metawinview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_92:
+      Name: resourcesex/prefab/ui/mail/mailitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_93:
+      Name: resourcesex/prefab/scene/frameitem.ab
+      Dependencies: {}
+    Info_94:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymapexpandview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_95:
+      Name: resourcesex/texture/loadingbg.ab
+      Dependencies: {}
+    Info_96:
+      Name: resourcesex/prefab/ui/leveltip/levelfailview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_97:
+      Name: resourcesex/prefab/ui/sign/signitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_98:
+      Name: resourcesex/prefab/ui/metauniverse/panel/playermappanel.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uihead.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+    Info_99:
+      Name: resourcesex/sound/sound/pay_reward.ab
+      Dependencies: {}
+    Info_100:
+      Name: resourcesex/prefab/ui/setting/userview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_101:
+      Name: resourcesex/shader/maskicon.ab
+      Dependencies: {}
+    Info_102:
+      Name: resourcesex/prefab/ui/metauniverse/item/targeteditoritem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/scene/item.ab
+    Info_103:
+      Name: resourcesex/sound/sound/item_zhuqingting.ab
+      Dependencies: {}
+    Info_104:
+      Name: resourcesex/prefab/ui/promptbox/servertipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_105:
+      Name: resourcesex/prefab/ui/mass/lifehelpitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_106:
+      Name: resourcesex/sound/sound/button_click.ab
+      Dependencies: {}
+    Info_107:
+      Name: resourcesex/prefab/ui/activityview/rechargefirstview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uiicon.ab
+    Info_108:
+      Name: resourcesex/shader/custom/normalmesh.ab
+      Dependencies: {}
+    Info_109:
+      Name: resourcesex/prefab/ui/pass/passpayview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_110:
+      Name: resourcesex/prefab/ui/main/browseview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_111:
+      Name: resourcesex/prefab/ui/metauniverse/tip/mymapsettingview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+        Dependency_2: resourcesex/atlas/scene/item.ab
+    Info_112:
+      Name: resourcesex/prefab/ui/leveltip/propsitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_113:
+      Name: resourcesex/prefab/ui/task/taskitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+    Info_114:
+      Name: resourcesex/prefab/ui/level/levelmainview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+        Dependency_2: resourcesex/atlas/ui/uiicon.ab
+        Dependency_3: resourcesex/prefab/effect/ui_icon.ab
+    Info_115:
+      Name: resourcesex/prefab/ui/shop/rewarditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/scene/item.ab
+    Info_116:
+      Name: resourcesex/shader/particelstencle.ab
+      Dependencies: {}
+    Info_117:
+      Name: resourcesex/prefab/ui/metauniverse/metaselectview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uimeta.ab
+    Info_118:
+      Name: resourcesex/sound/sound/mail_card.ab
+      Dependencies: {}
+    Info_119:
+      Name: resourcesex/prefab/ui/gift/rewardgititem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/scene/item.ab
+    Info_120:
+      Name: resourcesex/prefab/ui/setting/lanageview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_121:
+      Name: resourcesex/sound/sound/item_bomb.ab
+      Dependencies: {}
+    Info_122:
+      Name: resourcesex/prefab/ui/promptbox/buytipview.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_123:
+      Name: resourcesex/prefab/ui/main/headitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/ui/uihead.ab
+    Info_124:
+      Name: resourcesex/sound/music/music_level_3.ab
+      Dependencies: {}
+    Info_125:
+      Name: luascript/library.ab
+      Dependencies: {}
+    Info_126:
+      Name: resourcesex/atlas/scene/scene.ab
+      Dependencies: {}
+    Info_127:
+      Name: resourcesex/prefab/template/backgroundframe.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/prefab/template/closebtn.ab
+    Info_128:
+      Name: resourcesex/prefab/effect/effect_match_rotation.ab
+      Dependencies: {}
+    Info_129:
+      Name: resourcesex/atlas/ui/uicommon.ab
+      Dependencies: {}
+    Info_130:
+      Name: resourcesex/prefab/template/gridscrollview.ab
+      Dependencies: {}
+    Info_131:
+      Name: resourcesex/prefab/effect/effect_matchui_levelwin.ab
+      Dependencies: {}
+    Info_132:
+      Name: resourcesex/atlas/ui/uihead.ab
+      Dependencies: {}
+    Info_133:
+      Name: resourcesex/prefab/template/messagebox.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/prefab/template/horizontalscrollview.ab
+    Info_134:
+      Name: resourcesex/prefab/effect/effect_ui_reward.ab
+      Dependencies: {}
+    Info_135:
+      Name: resourcesex/atlas/ui/uimeta.ab
+      Dependencies: {}
+    Info_136:
+      Name: resourcesex/prefab/effect/ui_level_finish.ab
+      Dependencies: {}
+    Info_137:
+      Name: resourcesex/prefab/effect/ui_yueka.ab
+      Dependencies: {}
+    Info_138:
+      Name: resourcesex/atlas/scene/item.ab
+      Dependencies: {}
+    Info_139:
+      Name: resourcesex/prefab/template/closebtn.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_140:
+      Name: resourcesex/prefab/effect/effect_match_wipe_props.ab
+      Dependencies: {}
+    Info_141:
+      Name: resourcesex/prefab/template/iconitem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_142:
+      Name: resourcesex/prefab/effect/effect_rainbowball_fly.ab
+      Dependencies: {}
+    Info_143:
+      Name: resourcesex/atlas/ui/uiicon.ab
+      Dependencies: {}
+    Info_144:
+      Name: resourcesex/prefab/template/verticalscrollview.ab
+      Dependencies: {}
+    Info_145:
+      Name: resourcesex/prefab/effect/ui_icon.ab
+      Dependencies: {}
+    Info_146:
+      Name: resourcesex/prefab/effect/ui_rewarditem.ab
+      Dependencies: {}
+    Info_147:
+      Name: resourcesex/prefab/scene/sceneflyitem.ab
+      Dependencies: {}
+    Info_148:
+      Name: resourcesex/prefab/template/carditem.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+        Dependency_1: resourcesex/atlas/scene/item.ab
+    Info_149:
+      Name: resourcesex/prefab/effect/effect_match_wipe.ab
+      Dependencies: {}
+    Info_150:
+      Name: resourcesex/prefab/template/horizontalscrollview.ab
+      Dependencies: {}
+    Info_151:
+      Name: resourcesex/prefab/effect/effect_meta_delete.ab
+      Dependencies: {}
+    Info_152:
+      Name: resourcesex/prefab/template/sliderhorizontal.ab
+      Dependencies:
+        Dependency_0: resourcesex/atlas/ui/uicommon.ab
+    Info_153:
+      Name: resourcesex/prefab/effect/ui_book_open.ab
+      Dependencies: {}
+    Info_154:
+      Name: resourcesex/atlas/ui/uimonth.ab
+      Dependencies: {}
+    Info_155:
+      Name: resourcesex/prefab/effect/ui_rechargereward.ab
+      Dependencies: {}
+    Info_156:
+      Name: resourcesex/prefab/effect/ui_zhouka.ab
+      Dependencies: {}

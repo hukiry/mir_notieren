@@ -1,0 +1,25 @@
+
+Android库目录：
+——>Android
+	——>library
+		——>应用目录:	application  
+		——>模块目录:	moudel
+		google-services.json--------------google服务
+		gradle-wrapper.jar----------------工程调试
+		LauncherManifest.xml--------------模块层出包时自动拷贝
+
+
+moudel 模块目录:	Android/library/moudel
+	模块层出包：需要把下面文件拷贝到 Plugins\Android 目录下
+		模块清单		AndroidManifest.xml
+		模块gradle		mainTemplate.gradle
+		应用gradle		launcherTemplate.gradle
+
+		google-services.json 文件中的包名需与 AndroidManifest.xml 文件包名一致
+
+App 应用层目录:	Android/library/application
+	应用层出包：需要把下面文件拷贝到 Plugins\Android 目录下
+		应用清单			LauncherManifest.xml
+		应用gradle		launcherTemplate.gradle
+
+		google-services.json 文件中的包名需与 LauncherManifest.xml 文件包名一致

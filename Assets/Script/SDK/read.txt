@@ -1,0 +1,13 @@
+
+1, 修改为配置
+	1，ios参数
+	        private static string GetPlatIco =>
+#if UNITY_ANDROID
+            "d_BuildSettings.Android.Small";
+#elif UNITY_WEBGL
+            "d_BuildSettings.WebGL";
+#elif UNITY_STANDALONE || UNITY_WEBPLAYER
+            "d_BuildSettings.Standalone";
+#else
+            "d_BuildSettings.iPhone.Small";
+#endif

@@ -1,0 +1,40 @@
+---
+---
+--- Create Time:{#DateTime#}
+--- Author: {#Author#}
+---
+
+---@class {#class#}Item:IUIItem
+local {#class#}Item = Class(IUIItem)
+
+function {#class#}Item:ctor()
+	---@type {#class#}ItemControl
+	self.itemCtrl = nil
+end
+
+---初始:注册按钮事件等
+function {#class#}Item:Start(info)
+	
+end
+
+---更新数据
+function {#class#}Item:OnEnable(info)
+	
+end
+
+---切换语言
+function {#class#}Item:OnChangeLanguage()
+
+end
+
+---隐藏窗口
+function {#class#}Item:OnDisable()
+	
+end
+
+---消耗释放资源
+function {#class#}Item:OnDestroy()
+	self.itemCtrl:OnDestroy()
+end
+
+return {#class#}Item

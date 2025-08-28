@@ -1,0 +1,33 @@
+
+keystore证书文件 : LuckyGrass_lucky444syc.keystore
+	alias(别名): LuckyGrass
+	pass(密码) : lucky444syc
+
+
+证书指纹:
+         MD5:  DD:74:47:E2:F8:3D:0C:DA:00:6E:49:D4:D2:5A:1D:82
+         SHA1: A1:F0:AE:6C:24:60:F8:CA:D6:BD:A7:11:1C:7D:21:EA:7F:C6:86:99
+         SHA256: CC:50:2B:FA:CC:2F:7B:A8:DA:FF:8D:09:A9:AE:B7:F8:9A:F4:FE:30:11:58:24:96:E6:74:8B:5E:4F:EC:ED:AB
+
+Facebook密钥散列：ofCubCRg+MrWvacRHH0h6n/Ghpk=
+
+
+
+1，如果没有pepk.jar 文件，需要在google 后台下载 
+
+2，配置系统变量环境（计算机属性-->环境变量-->系统变量）
+      key名--------------------value值
+    JAVA_HOME    	C:\Program Files\Java\jdk1.8.0_171
+    Path       		%JAVA_HOME%\bin
+
+3，将 pepk.jar 和 *.keystore文件放在同一级目录下 
+
+4，在控制台执行签名命令
+	签名命令：
+	java -jar pepk.jar --keystore=LuckyGrass_lucky444syc.keystore --alias=LuckyGrass --output=output.zip --include-cert --encryptionkey=eb10fe8f7c7c9df715022017b00c6471f8ba8170b13049a11e6c09ffe3056a104a3bbe4ac5a955f4ba4fe93fc8cef27558a3eb9d2a529a2092761fb833b656cd48b9de6a
+
+	执行命令后会要求输入密码：两次都输入相同(lucky444syc)
+
+5，将输出的 output.zip 上传到google后台签名
+
+java -jar "pepk.jar" --keystore=LuckyGrass_lucky444syc.keystore --alias=LuckyGrass --output="F:\output.zip"  --signing-keystore=LuckyGrass_lucky444syc.keystore --signing-key-alias=LuckyGrass --encryptionkey=eb10fe8f7c7c9df715022017b00c6471f8ba8170b13049a11e6c09ffe3056a104a3bbe4ac5a955f4ba4fe93fc8cef27558a3eb9d2a529a2092761fb833b656cd48b9de6a

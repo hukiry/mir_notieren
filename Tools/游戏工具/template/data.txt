@@ -1,0 +1,19 @@
+---
+--- {class} :{desc}
+--- Author : hukiry     
+--- DateTime {time}
+---
+
+---@class {class}
+local {class} = Class()
+function {class}:ctor()
+{bodyNew}
+end
+
+---登出游戏清除数据
+function {class}:InitData()
+{bodyInit}
+end
+
+{function}
+return {class}

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2119607295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2ed779293da93bb9b944a4bc2e7f8a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/merge_newItem.mp3
+Dependencies: []

@@ -1,0 +1,34 @@
+﻿/*
+  工具生成一次
+*/
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
+
+public class {#class#} : BaseView<{#class#}>
+{
+
+    public override string prefabName { get { return typeof({#class#}).Name; } } //资源包路径路径
+
+    public {#class#}Ctrl m_UICtrl
+    {
+        get
+        {
+            return this.gameObject.GetComponent<{#class#}Ctrl>();
+        }
+    }
+
+    protected override void Init()
+    {
+
+
+    }
+
+    protected override void AfterOpenView()
+    {
+
+    }
+}

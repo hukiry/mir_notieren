@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3719321301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a62862f49b90bb3111a06969dc61116b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResourcesEx/Sound/Sound/buy_glod.wav
+Dependencies: []
