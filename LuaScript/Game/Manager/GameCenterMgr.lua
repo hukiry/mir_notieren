@@ -16,6 +16,7 @@ end
 
 ---初始化游戏中心
 function GameCenterMgr:Init()
+    PutAliyunSdk.Init("", "", "", "")
     Single.TimerManger():RemoveHandler(self)
     Single.TimerManger():DoTime(self, self.OnPerSecond, 1, -1)
     ---服务器时间
